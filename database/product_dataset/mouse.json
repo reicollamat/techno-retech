@@ -1,0 +1,1793 @@
+[
+    {
+        "name": "Logitech G502 HERO",
+        "price": 46.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro X Superlight",
+        "price": 139.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25400,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G305 (Black)",
+        "price": 39.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 LIGHTSPEED",
+        "price": 107.77,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder V2",
+        "price": 44.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V3",
+        "price": 54.57,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "FinalMouse Air58 Ninja",
+        "price": 624.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 3200,
+        "hand_orientation": "Right",
+        "color": "Blue"
+    },
+    {
+        "name": "Logitech G Pro X Superlight",
+        "price": 137.5,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25400,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Glorious Model O",
+        "price": 74.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries 62050",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 3600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro Wireless",
+        "price": 88.63,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G203 Lightsync",
+        "price": 34.48,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Rival 3",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8500,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk X HyperSpeed",
+        "price": 34.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Razer Viper Ultimate w/Dock",
+        "price": 96,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 X Plus",
+        "price": 144.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wired, Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V3 Pro + Mouse Dock Pro",
+        "price": 199.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious Model O",
+        "price": 79.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G305 (White)",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Razer DeathAdder V3 Pro",
+        "price": 130.81,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper V2 Pro",
+        "price": 146.19,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious MODEL O",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder Essential",
+        "price": 22.7,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6400,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Corsair DARK CORE RGB PRO SE",
+        "price": 96.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 X Plus",
+        "price": 154.41,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wired, Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G703 LIGHTSPEED",
+        "price": 63.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX MASTER 3S",
+        "price": 99.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "Gray"
+    },
+    {
+        "name": "Corsair M65 RGB ELITE",
+        "price": 36.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 17997,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder Essential",
+        "price": 25.96,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6400,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Razer Viper Mini",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8500,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M65 RGB ULTRA WIRELESS",
+        "price": 109.93,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Redragon COBRA M711",
+        "price": 19.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 10000,
+        "hand_orientation": "Right",
+        "color": "Black / Multicolor"
+    },
+    {
+        "name": "Logitech B100",
+        "price": 7.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 800,
+        "hand_orientation": null,
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper V2 Pro",
+        "price": 142,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Razer Viper Ultimate",
+        "price": 99.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG HARPE ACE AIM LAB EDITION",
+        "price": 123.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless",
+        "max_dpi": 36000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder V3 Pro",
+        "price": 147.91,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Razer Viper 8KHz",
+        "price": 51.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair NIGHTSWORD RGB",
+        "price": 69.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Naga Trinity",
+        "price": 75.87,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech Anywhere Mouse MX",
+        "price": 149.94,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 Proteus Spectrum",
+        "price": 72.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G402",
+        "price": 30.48,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V3 Pro",
+        "price": 131.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Rival 3",
+        "price": 35.49,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious MODEL O",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Corsair SCIMITAR RGB ELITE",
+        "price": 73.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G305 LIGHTSPEED",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 X",
+        "price": 125,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wired, Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Rival 5",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G600 MMO Gaming Mouse",
+        "price": 37.99,
+        "tracking_method": "Laser",
+        "connection_type": "Wired",
+        "max_dpi": 8200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Aerox 3",
+        "price": 95.15,
+        "tracking_method": "Optical",
+        "connection_type": "Bluetooth Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder V2 Pro",
+        "price": 69,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim 98616 Go Mini Travel Commuter",
+        "price": 4.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Blue"
+    },
+    {
+        "name": "Razer DeathAdder V3",
+        "price": 69.98,
+        "tracking_method": "Optical",
+        "connection_type": null,
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M65 RGB ELITE",
+        "price": 28,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 17995,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Logitech MX Master 3",
+        "price": 99,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Logitech G203 Lightsync",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "HP HyperX Pulsefire Haste",
+        "price": 39.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HARPOON RGB PRO",
+        "price": 34.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Asus P707 ROG SPATHA X",
+        "price": 149.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V3 Pro",
+        "price": 158.08,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "White / Black"
+    },
+    {
+        "name": "Razer Naga Pro",
+        "price": 112.11,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HARPOON RGB",
+        "price": 44.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 10000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious MODEL D",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 X",
+        "price": 58.9,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon M602",
+        "price": 19.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 7200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Mamba Elite",
+        "price": 29.48,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G403 HERO",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Razer Naga V2 Pro",
+        "price": 179.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk Ultimate",
+        "price": 99.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper Ultimate",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "White"
+    },
+    {
+        "name": "Corsair Harpoon RGB",
+        "price": 20.49,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M65 PRO RGB FPS",
+        "price": 33.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G700s",
+        "price": 389.98,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": 8200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G903 HERO",
+        "price": 90.74,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious MODEL D",
+        "price": 34.25,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries Aerox 9",
+        "price": 113.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G305 LIGHTSPEED",
+        "price": 88.94,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries Rival 600",
+        "price": 44.95,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper Ultimate w/Dock",
+        "price": 119.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "Pink"
+    },
+    {
+        "name": "Razer DeathAdder V2 X HyperSpeed",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless, Bluetooth Wireless",
+        "max_dpi": 14000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M65 RGB ULTRA",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Logitech G604 LIGHTSPEED",
+        "price": 68.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Rival 650 Wireless",
+        "price": 69.22,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Naga Chroma",
+        "price": 269.99,
+        "tracking_method": "Laser",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech M90",
+        "price": 7.2,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 1000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Pulsefire Haste",
+        "price": 58.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair SABRE RGB PRO WIRELESS CHAMPION SERIES",
+        "price": 149.94,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair IRONCLAW RGB WIRELESS",
+        "price": 59.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "HP Pulsefire Core RGB",
+        "price": 19.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair DARK CORE RGB PRO",
+        "price": 89.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V2",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M65 RGB ULTRA WIRELESS",
+        "price": 128.71,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": null
+    },
+    {
+        "name": "HP HyperX Pulsefire FPS Pro",
+        "price": 38,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Orochi V2",
+        "price": 60,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G502 SE HERO",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Asus P704 ROG CHAKRAM",
+        "price": 132.26,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair SABRE RGB PRO CHAMPION SERIES",
+        "price": 30,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder V2 Mini",
+        "price": 33,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8500,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro X Superlight",
+        "price": 147.41,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25400,
+        "hand_orientation": "Right",
+        "color": "Pink"
+    },
+    {
+        "name": "Logitech MX MASTER 3S",
+        "price": 91.8,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Asus ROG Gladius III",
+        "price": 89.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "MSI CLUTCH",
+        "price": 19.64,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 4200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "EVGA X12",
+        "price": 24.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech PRO Wireless",
+        "price": 192,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon M908 IMPACT MMO",
+        "price": 40.48,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12400,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Kensington Pro Fit",
+        "price": null,
+        "tracking_method": "Laser",
+        "connection_type": "Wired",
+        "max_dpi": 1800,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair IRONCLAW RGB FPS/MOBA",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Asus TUF Gaming M3",
+        "price": 19.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 7000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious Model O-",
+        "price": 34.77,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Trust GXT 155",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Razer DeathAdder Elite",
+        "price": 43.67,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Razer Basilisk Ultimate",
+        "price": 112.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "MSI Clutch GM11",
+        "price": 22.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 5000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G305 LIGHTSPEED",
+        "price": 44,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Purple"
+    },
+    {
+        "name": "NZXT Lift",
+        "price": 31.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Aerox 3",
+        "price": 58.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8500,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G502 X",
+        "price": 68.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Cooler Master MM710 Glossy Black",
+        "price": 19.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Orochi V2",
+        "price": 57.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX MASTER 3S",
+        "price": 99.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious Model O-",
+        "price": 34.77,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX MASTER 2S (Black)",
+        "price": 69.98,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair GLAIVE RGB Aluminum",
+        "price": 154.91,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper Ultimate",
+        "price": 119.96,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "White / Gray"
+    },
+    {
+        "name": "Logitech G502 X",
+        "price": 115.89,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wired, Wireless",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Cooler Master MM711 Matte Black",
+        "price": 24.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder Essential",
+        "price": 26.06,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6400,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Logitech G303 SHROUD EDITION",
+        "price": 97.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G PRO Hero",
+        "price": 55.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 25600,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Perixx MX-2000B",
+        "price": 19.98,
+        "tracking_method": "Laser",
+        "connection_type": "Wired",
+        "max_dpi": 5040,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Glorious Model D-",
+        "price": 34.25,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G303 Daedalus Apex",
+        "price": 329.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black / Orange"
+    },
+    {
+        "name": "Lenovo GX30M39704 300",
+        "price": 6.79,
+        "tracking_method": "Laser",
+        "connection_type": "Wired",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black / Orange"
+    },
+    {
+        "name": "Logitech G305 LIGHTSPEED",
+        "price": 39.65,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Blue / Green"
+    },
+    {
+        "name": "Glorious Model I",
+        "price": 59.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Corsair DARKSTAR",
+        "price": 169.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless, Bluetooth Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX Vertical",
+        "price": 93.8,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Gray / Silver"
+    },
+    {
+        "name": "Logitech TrackMan",
+        "price": 399.95,
+        "tracking_method": "Trackball",
+        "connection_type": "Wireless",
+        "max_dpi": null,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Razer Basilisk V3 X Hyperspeed",
+        "price": 67.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair KATAR ELITE",
+        "price": 77.59,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair SCIMITAR PRO RGB",
+        "price": 80,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim Bravo",
+        "price": 5.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper Ultimate w/Dock",
+        "price": 172.28,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Both",
+        "color": "Yellow / Black"
+    },
+    {
+        "name": "Logitech M330 SILENT PLUS",
+        "price": 18.57,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 1000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G903",
+        "price": 99.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Both",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "HP HyperX Pulsefire Surge",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Gigabyte AORUS M5",
+        "price": 49.83,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro X Superlight",
+        "price": 159.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 25400,
+        "hand_orientation": "Right",
+        "color": "Red"
+    },
+    {
+        "name": "V7 M30P20-7N",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 1000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G203 Lightsync",
+        "price": 22.55,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "Purple"
+    },
+    {
+        "name": "Corsair KATAR PRO XT",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12400,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro",
+        "price": 79.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper Mini Signature Edition",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech M100",
+        "price": 9.8,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 1000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "AOC GM500",
+        "price": 24.21,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 5000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G203 Prodigy",
+        "price": 35.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Pulsefire Haste 2",
+        "price": 89.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 3200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "ROCCAT KONE Pro Air",
+        "price": 59.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "ROCCAT Kone AIMO Remastered",
+        "price": 69.26,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Asus TUF Gaming M4 Air",
+        "price": 30.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim 98113",
+        "price": 4.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Naga X",
+        "price": 44.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 18000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Basilisk V3 Pro + Wireless Charging Puck",
+        "price": 169.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "max_dpi": 30000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper",
+        "price": 78.5,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Both",
+        "color": "Pink / Gray"
+    },
+    {
+        "name": "Logitech G900 CHAOS SPECTRUM",
+        "price": 81.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Viper",
+        "price": 63.97,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Both",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Corsair KATAR PRO",
+        "price": 39.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 10000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon ‎M711-FPS COBRA RGB",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 24000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair M55 RGB Pro",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12400,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech M185",
+        "price": 11.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Gray"
+    },
+    {
+        "name": "Logitech G602",
+        "price": 142.38,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 2500,
+        "hand_orientation": "Right",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "ROCCAT KONE Pro",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 19000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech M317",
+        "price": 12.99,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G102 Prodigy",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 6000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Atheris",
+        "price": 28,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 7200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "EVGA X17",
+        "price": 19.47,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Razer Lancehead Tournament Edition",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Both",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Logitech G300S",
+        "price": 29.55,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 2500,
+        "hand_orientation": "Both",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Pulsar Xlite V2",
+        "price": 79.95,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 20000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Mad Catz ‎R.A.T Pro X3 Supreme Limited Edition",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black / Gold"
+    },
+    {
+        "name": "Logitech M510",
+        "price": 27.99,
+        "tracking_method": "Laser",
+        "connection_type": "Wireless",
+        "max_dpi": 1000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Chakram Core",
+        "price": 79.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Asus TUF GAMING x Demon Slayer L.E. Tanjiro Kamado",
+        "price": 29.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 7000,
+        "hand_orientation": "Right",
+        "color": "Black / Green"
+    },
+    {
+        "name": "SteelSeries Rival 100",
+        "price": 16.48,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 4000,
+        "hand_orientation": "Right",
+        "color": "Gold"
+    },
+    {
+        "name": "Cooler Master MM711 Matte White",
+        "price": 24.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G403 Prodigy",
+        "price": 74.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech M720 Triathlon",
+        "price": 39.89,
+        "tracking_method": "Optical",
+        "connection_type": "Bluetooth Wireless",
+        "max_dpi": 1000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G203 Lightsync",
+        "price": 15.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 8000,
+        "hand_orientation": "Right",
+        "color": "Blue"
+    },
+    {
+        "name": "Microsoft MHC-00001",
+        "price": 264.88,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": null,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "MSI CLUTCH GM50",
+        "price": 38.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 7200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Lancehead Tournament Edition",
+        "price": 104.6,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 16000,
+        "hand_orientation": "Both",
+        "color": "Pink"
+    },
+    {
+        "name": "Zowie EC2-A",
+        "price": 75.98,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 3200,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathAdder Chroma",
+        "price": 44.89,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 10000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Gigabyte GM-M5050",
+        "price": 15,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 800,
+        "hand_orientation": "Both",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G603",
+        "price": null,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 12000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Atheris",
+        "price": 48.33,
+        "tracking_method": "Optical",
+        "connection_type": "Wireless",
+        "max_dpi": 7200,
+        "hand_orientation": "Right",
+        "color": "White"
+    },
+    {
+        "name": "Asus ROG Gladius III",
+        "price": 49.99,
+        "tracking_method": "Optical",
+        "connection_type": "Wired",
+        "max_dpi": 26000,
+        "hand_orientation": "Right",
+        "color": "Black"
+    }
+]

@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "price": 168.99,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "price": 228.72,
+        "core_count": 8,
+        "core_clock": 3.8,
+        "boost_clock": 4.7,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-13700K",
+        "price": 381.99,
+        "core_count": 16,
+        "core_clock": 3.4,
+        "boost_clock": 5.4,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-13900K",
+        "price": 568.99,
+        "core_count": 24,
+        "core_clock": 3,
+        "boost_clock": 5.8,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "price": 439,
+        "core_count": 8,
+        "core_clock": 4.2,
+        "boost_clock": 5,
+        "tdp": 120,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-13600K",
+        "price": 308.95,
+        "core_count": 14,
+        "core_clock": 3.5,
+        "boost_clock": 5.1,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 5600",
+        "price": 138,
+        "core_count": 6,
+        "core_clock": 3.5,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12400F",
+        "price": 149.97,
+        "core_count": 6,
+        "core_clock": 2.5,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 7700X",
+        "price": 299,
+        "core_count": 8,
+        "core_clock": 4.5,
+        "boost_clock": 5.4,
+        "tdp": 105,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 7600X",
+        "price": 229,
+        "core_count": 6,
+        "core_clock": 4.7,
+        "boost_clock": 5.3,
+        "tdp": 105,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 5800X3D",
+        "price": 329.99,
+        "core_count": 8,
+        "core_clock": 3.4,
+        "boost_clock": 4.5,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-12700K",
+        "price": 241.99,
+        "core_count": 12,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 7600",
+        "price": 212.52,
+        "core_count": 6,
+        "core_clock": 3.8,
+        "boost_clock": 5.1,
+        "tdp": 65,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 5500",
+        "price": 99,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 3600",
+        "price": 104.99,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 5700X",
+        "price": 178,
+        "core_count": 8,
+        "core_clock": 3.4,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "price": 189.99,
+        "core_count": 10,
+        "core_clock": 3.7,
+        "boost_clock": 4.9,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 5600G",
+        "price": 139,
+        "core_count": 6,
+        "core_clock": 3.9,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": "Radeon Vega 7",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-13400F",
+        "price": 208.98,
+        "core_count": 10,
+        "core_clock": 2.5,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 7900X",
+        "price": 419.99,
+        "core_count": 12,
+        "core_clock": 4.7,
+        "boost_clock": 5.6,
+        "tdp": 170,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "price": 349,
+        "core_count": 12,
+        "core_clock": 3.7,
+        "boost_clock": 4.8,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-12100F",
+        "price": 88.12,
+        "core_count": 4,
+        "core_clock": 3.3,
+        "boost_clock": 4.3,
+        "tdp": 58,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-13600KF",
+        "price": 289.99,
+        "core_count": 14,
+        "core_clock": 3.5,
+        "boost_clock": 5.1,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 7950X3D",
+        "price": 557,
+        "core_count": 16,
+        "core_clock": 4.2,
+        "boost_clock": 5.7,
+        "tdp": 120,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 5700G",
+        "price": 165.94,
+        "core_count": 8,
+        "core_clock": 3.8,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": "Radeon Vega 8",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "price": 581.74,
+        "core_count": 16,
+        "core_clock": 4.5,
+        "boost_clock": 5.7,
+        "tdp": 170,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-12900K",
+        "price": 344.99,
+        "core_count": 16,
+        "core_clock": 3.2,
+        "boost_clock": 5.2,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 4500",
+        "price": 78.2,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-13700KF",
+        "price": 382.84,
+        "core_count": 16,
+        "core_clock": 3.4,
+        "boost_clock": 5.4,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-13500",
+        "price": 247.98,
+        "core_count": 14,
+        "core_clock": 2.5,
+        "boost_clock": 4.8,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 7700",
+        "price": 296.31,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 5.3,
+        "tdp": 65,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-10400F",
+        "price": 114.64,
+        "core_count": 6,
+        "core_clock": 2.9,
+        "boost_clock": 4.3,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 3700X",
+        "price": 239,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-13100F",
+        "price": 118.99,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": 4.5,
+        "tdp": 58,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Threadripper 3990X",
+        "price": 4483,
+        "core_count": 64,
+        "core_clock": 2.9,
+        "boost_clock": 4.3,
+        "tdp": 280,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-13900KS",
+        "price": null,
+        "core_count": 24,
+        "core_clock": 3,
+        "boost_clock": 6,
+        "tdp": 150,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-12700KF",
+        "price": 219.99,
+        "core_count": 12,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "price": 390,
+        "core_count": 16,
+        "core_clock": 3.4,
+        "boost_clock": 4.9,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-13900KF",
+        "price": 535.99,
+        "core_count": 24,
+        "core_clock": 3,
+        "boost_clock": 5.8,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 4600G",
+        "price": 104,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": "Radeon Vega 7",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-10100F",
+        "price": 75.83,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4.3,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12400",
+        "price": 172.99,
+        "core_count": 6,
+        "core_clock": 2.5,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 730",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-13400",
+        "price": 228,
+        "core_count": 10,
+        "core_clock": 2.5,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 730",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 3 4100",
+        "price": 63.96,
+        "core_count": 4,
+        "core_clock": 3.8,
+        "boost_clock": 4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 7900",
+        "price": 391.31,
+        "core_count": 12,
+        "core_clock": 3.6,
+        "boost_clock": 5.4,
+        "tdp": 65,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12600KF",
+        "price": 219,
+        "core_count": 10,
+        "core_clock": 3.7,
+        "boost_clock": 4.9,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-11400F",
+        "price": 130.97,
+        "core_count": 6,
+        "core_clock": 2.6,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 7900X3D",
+        "price": 521.74,
+        "core_count": 12,
+        "core_clock": 4.4,
+        "boost_clock": 5.6,
+        "tdp": 120,
+        "graphics": "Radeon",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-9700K",
+        "price": 339,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 4.9,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 2600",
+        "price": 165,
+        "core_count": 6,
+        "core_clock": 3.4,
+        "boost_clock": 3.9,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-11700K",
+        "price": 272.87,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 750",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 3 3200G",
+        "price": 72.75,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4,
+        "tdp": 65,
+        "graphics": "Radeon Vega 8",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 3600X",
+        "price": 210,
+        "core_count": 6,
+        "core_clock": 3.8,
+        "boost_clock": 4.4,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-10700K",
+        "price": 283.95,
+        "core_count": 8,
+        "core_clock": 3.8,
+        "boost_clock": 5.1,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-9900K",
+        "price": 565,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-11600K",
+        "price": 184,
+        "core_count": 6,
+        "core_clock": 3.9,
+        "boost_clock": 4.9,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 750",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 2700X",
+        "price": 220,
+        "core_count": 8,
+        "core_clock": 3.7,
+        "boost_clock": 4.3,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 3900X",
+        "price": 365,
+        "core_count": 12,
+        "core_clock": 3.8,
+        "boost_clock": 4.6,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-8700K",
+        "price": 279,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.7,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-13700",
+        "price": 379,
+        "core_count": 16,
+        "core_clock": 2.1,
+        "boost_clock": 5.2,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-12100",
+        "price": 114.99,
+        "core_count": 4,
+        "core_clock": 3.3,
+        "boost_clock": 4.3,
+        "tdp": 60,
+        "graphics": "Intel UHD Graphics 730",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-9400F",
+        "price": 135,
+        "core_count": 6,
+        "core_clock": 2.9,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-13700F",
+        "price": 349.99,
+        "core_count": 16,
+        "core_clock": 2.1,
+        "boost_clock": 5.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-7700K",
+        "price": 310,
+        "core_count": 4,
+        "core_clock": 4.2,
+        "boost_clock": 4.5,
+        "tdp": 91,
+        "graphics": "Intel HD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-13100",
+        "price": 138.94,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": 4.5,
+        "tdp": 60,
+        "graphics": "Intel UHD Graphics 730",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-12700F",
+        "price": 284.99,
+        "core_count": 12,
+        "core_clock": 2.1,
+        "boost_clock": 4.9,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 3800X",
+        "price": 275.99,
+        "core_count": 8,
+        "core_clock": 3.9,
+        "boost_clock": 4.5,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-11900K",
+        "price": 299,
+        "core_count": 8,
+        "core_clock": 3.5,
+        "boost_clock": 5.3,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 750",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-10400",
+        "price": 131.13,
+        "core_count": 6,
+        "core_clock": 2.9,
+        "boost_clock": 4.3,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-10900K",
+        "price": 341.94,
+        "core_count": 10,
+        "core_clock": 3.7,
+        "boost_clock": 5.3,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-10700F",
+        "price": 218.13,
+        "core_count": 8,
+        "core_clock": 2.9,
+        "boost_clock": 4.8,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-6700K",
+        "price": 220,
+        "core_count": 4,
+        "core_clock": 4,
+        "boost_clock": 4.2,
+        "tdp": 91,
+        "graphics": "Intel HD Graphics 530",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-9600K",
+        "price": 219.99,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.6,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 3400G",
+        "price": 121.99,
+        "core_count": 4,
+        "core_clock": 3.7,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": "Radeon Vega 11",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-10600K",
+        "price": 175.48,
+        "core_count": 6,
+        "core_clock": 4.1,
+        "boost_clock": 4.8,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 2600X",
+        "price": 215,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-10850K",
+        "price": 249.63,
+        "core_count": 10,
+        "core_clock": 3.6,
+        "boost_clock": 5.2,
+        "tdp": 125,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 3 3100",
+        "price": 85.99,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 3.9,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-11400",
+        "price": 144.88,
+        "core_count": 6,
+        "core_clock": 2.6,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 730",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-11700",
+        "price": 194.99,
+        "core_count": 8,
+        "core_clock": 2.5,
+        "boost_clock": 4.9,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 750",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 3950X",
+        "price": 575,
+        "core_count": 16,
+        "core_clock": 3.5,
+        "boost_clock": 4.7,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-10105F",
+        "price": 78.05,
+        "core_count": 4,
+        "core_clock": 3.7,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-4790K",
+        "price": null,
+        "core_count": 4,
+        "core_clock": 4,
+        "boost_clock": 4.4,
+        "tdp": 88,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 3600",
+        "price": 97.99,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-13900",
+        "price": 559.99,
+        "core_count": 24,
+        "core_clock": 2,
+        "boost_clock": 5.6,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-8700",
+        "price": 313,
+        "core_count": 6,
+        "core_clock": 3.2,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Celeron E1400",
+        "price": null,
+        "core_count": 2,
+        "core_clock": 2,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-8400",
+        "price": 185,
+        "core_count": 6,
+        "core_clock": 2.8,
+        "boost_clock": 4,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-12900KF",
+        "price": 398.99,
+        "core_count": 16,
+        "core_clock": 3.2,
+        "boost_clock": 5.2,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-12700",
+        "price": 318.99,
+        "core_count": 12,
+        "core_clock": 2.1,
+        "boost_clock": 4.9,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-6600K",
+        "price": 188,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.9,
+        "tdp": 91,
+        "graphics": "Intel HD Graphics 530",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-12900KS",
+        "price": 389.99,
+        "core_count": 16,
+        "core_clock": 3.4,
+        "boost_clock": 5.5,
+        "tdp": 150,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 1600 (14nm)",
+        "price": 250,
+        "core_count": 6,
+        "core_clock": 3.2,
+        "boost_clock": 3.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 2700",
+        "price": 185,
+        "core_count": 8,
+        "core_clock": 3.2,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-6500",
+        "price": 140,
+        "core_count": 4,
+        "core_clock": 3.2,
+        "boost_clock": 3.6,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 530",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-7700",
+        "price": 245,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "AMD Threadripper 3970X",
+        "price": 2300.98,
+        "core_count": 32,
+        "core_clock": 3.7,
+        "boost_clock": 4.5,
+        "tdp": 280,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-11700KF",
+        "price": 260,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-9100F",
+        "price": 110,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-11700F",
+        "price": 223.57,
+        "core_count": 8,
+        "core_clock": 2.5,
+        "boost_clock": 4.9,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-10100",
+        "price": 104.94,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4.3,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-4690K",
+        "price": 90,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.9,
+        "tdp": 88,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-6700",
+        "price": 233,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": 4,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 530",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-10700",
+        "price": 239.75,
+        "core_count": 8,
+        "core_clock": 2.9,
+        "boost_clock": 4.8,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 3600",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.2,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 1600 (12nm)",
+        "price": 140.99,
+        "core_count": 6,
+        "core_clock": 3.2,
+        "boost_clock": 3.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Threadripper 3960X",
+        "price": 1483,
+        "core_count": 24,
+        "core_clock": 3.8,
+        "boost_clock": 4.5,
+        "tdp": 280,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-3770",
+        "price": 143,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 77,
+        "graphics": "Intel HD Graphics 4000",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-8600K",
+        "price": 245,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.3,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 3 2200G",
+        "price": 150,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.7,
+        "tdp": 65,
+        "graphics": "Radeon Vega 8",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-13900F",
+        "price": 499.99,
+        "core_count": 24,
+        "core_clock": 2,
+        "boost_clock": 5.6,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-4770",
+        "price": 125,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": 3.9,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12500",
+        "price": 232.99,
+        "core_count": 6,
+        "core_clock": 3,
+        "boost_clock": 4.6,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-7500",
+        "price": 132.3,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": 3.8,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-9700",
+        "price": 340,
+        "core_count": 8,
+        "core_clock": 3,
+        "boost_clock": 4.7,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-7600K",
+        "price": 218,
+        "core_count": 4,
+        "core_clock": 3.8,
+        "boost_clock": 4.2,
+        "tdp": 91,
+        "graphics": "Intel HD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-9900KF",
+        "price": 395,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 5,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 2400G",
+        "price": 135,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 3.9,
+        "tdp": 65,
+        "graphics": "Radeon Vega 11",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 1700",
+        "price": 215,
+        "core_count": 8,
+        "core_clock": 3,
+        "boost_clock": 3.7,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-10600KF",
+        "price": 164.99,
+        "core_count": 6,
+        "core_clock": 4.1,
+        "boost_clock": 4.8,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Xeon E5-2699 V4",
+        "price": 387.1,
+        "core_count": 22,
+        "core_clock": 2.2,
+        "boost_clock": 3.6,
+        "tdp": 145,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-10700KF",
+        "price": 268.66,
+        "core_count": 8,
+        "core_clock": 3.8,
+        "boost_clock": 5.1,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 3900XT",
+        "price": 390,
+        "core_count": 12,
+        "core_clock": 3.8,
+        "boost_clock": 4.7,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-3470",
+        "price": 200,
+        "core_count": 4,
+        "core_clock": 3.2,
+        "boost_clock": null,
+        "tdp": 77,
+        "graphics": "Intel HD Graphics 2500",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-7400",
+        "price": 153,
+        "core_count": 4,
+        "core_clock": 3,
+        "boost_clock": 3.5,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-9700F",
+        "price": 349,
+        "core_count": 8,
+        "core_clock": 3,
+        "boost_clock": 4.7,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-4460",
+        "price": 89.54,
+        "core_count": 4,
+        "core_clock": 3.2,
+        "boost_clock": 3.4,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 9 3900X",
+        "price": null,
+        "core_count": 12,
+        "core_clock": 3.8,
+        "boost_clock": 4.6,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 3700X",
+        "price": null,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD FX-8350",
+        "price": null,
+        "core_count": 8,
+        "core_clock": 4,
+        "boost_clock": null,
+        "tdp": 125,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Celeron G6900",
+        "price": 72.45,
+        "core_count": 2,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 46,
+        "graphics": "Intel UHD Graphics 710",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 3 3300X",
+        "price": 195,
+        "core_count": 4,
+        "core_clock": 3.8,
+        "boost_clock": 4.3,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-10900KF",
+        "price": 318.95,
+        "core_count": 10,
+        "core_clock": 3.7,
+        "boost_clock": 5.3,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-9700KF",
+        "price": 297,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 4.9,
+        "tdp": 95,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-3770K",
+        "price": 275,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": null,
+        "tdp": 77,
+        "graphics": "Intel HD Graphics 4000",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 1600X",
+        "price": 140,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-4590",
+        "price": null,
+        "core_count": 4,
+        "core_clock": 3.3,
+        "boost_clock": 3.7,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i3-10105",
+        "price": 104.69,
+        "core_count": 4,
+        "core_clock": 3.7,
+        "boost_clock": 4.4,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Celeron G5900",
+        "price": 39.99,
+        "core_count": 2,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 58,
+        "graphics": "Intel UHD Graphics 610",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-4790",
+        "price": 319.66,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": 4,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-11600KF",
+        "price": 206.98,
+        "core_count": 6,
+        "core_clock": 3.9,
+        "boost_clock": 4.9,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-4770K",
+        "price": 192,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.9,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "price": 163,
+        "core_count": 4,
+        "core_clock": 3.6,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 7 3800XT",
+        "price": 407.95,
+        "core_count": 8,
+        "core_clock": 3.9,
+        "boost_clock": 4.7,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 3600XT",
+        "price": 389,
+        "core_count": 6,
+        "core_clock": 3.8,
+        "boost_clock": 4.5,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 1700X",
+        "price": 251,
+        "core_count": 8,
+        "core_clock": 3.4,
+        "boost_clock": 3.8,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 5 3500X",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-10980XE",
+        "price": 923,
+        "core_count": 18,
+        "core_clock": 3,
+        "boost_clock": 4.8,
+        "tdp": 165,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-12600",
+        "price": 257.99,
+        "core_count": 6,
+        "core_clock": 3.3,
+        "boost_clock": 4.8,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-11900KF",
+        "price": null,
+        "core_count": 8,
+        "core_clock": 3.5,
+        "boost_clock": 5.3,
+        "tdp": 125,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-9400",
+        "price": 210,
+        "core_count": 6,
+        "core_clock": 2.9,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Celeron G4900",
+        "price": 34.99,
+        "core_count": 2,
+        "core_clock": 3.1,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 610",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-2600",
+        "price": 155.62,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 95,
+        "graphics": "Intel HD Graphics 2000",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-6400",
+        "price": null,
+        "core_count": 4,
+        "core_clock": 2.7,
+        "boost_clock": 3.3,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 530",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 1400",
+        "price": 110,
+        "core_count": 4,
+        "core_clock": 3.2,
+        "boost_clock": 3.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Xeon E5-2650 V4",
+        "price": 48.01,
+        "core_count": 12,
+        "core_clock": 2.2,
+        "boost_clock": 2.9,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-4570",
+        "price": 121.16,
+        "core_count": 4,
+        "core_clock": 3.2,
+        "boost_clock": null,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-3570K",
+        "price": 125,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 77,
+        "graphics": "Intel HD Graphics 4000",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i3-4150",
+        "price": 77.14,
+        "core_count": 2,
+        "core_clock": 3.5,
+        "boost_clock": null,
+        "tdp": 54,
+        "graphics": "Intel HD Graphics 4400",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-9600KF",
+        "price": 230,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.6,
+        "tdp": 95,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "AMD FX-6300",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.5,
+        "boost_clock": null,
+        "tdp": 95,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-2400",
+        "price": 170.99,
+        "core_count": 4,
+        "core_clock": 3.1,
+        "boost_clock": null,
+        "tdp": 95,
+        "graphics": "Intel HD Graphics 2000",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-9900KS",
+        "price": 1989,
+        "core_count": 8,
+        "core_clock": 4,
+        "boost_clock": 5,
+        "tdp": 127,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Pentium E2220",
+        "price": 22.99,
+        "core_count": 2,
+        "core_clock": 2.4,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 3500",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i5-8500",
+        "price": 258.27,
+        "core_count": 6,
+        "core_clock": 3,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 1500X",
+        "price": 225,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.7,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Pentium Gold G7400",
+        "price": 89.99,
+        "core_count": 2,
+        "core_clock": 3.7,
+        "boost_clock": null,
+        "tdp": 46,
+        "graphics": "Intel UHD Graphics 710",
+        "smt": true
+    },
+    {
+        "name": "AMD Athlon 3000G (14nm)",
+        "price": 98.99,
+        "core_count": 2,
+        "core_clock": 3.5,
+        "boost_clock": null,
+        "tdp": 35,
+        "graphics": "Radeon Vega 3",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 9 3950X",
+        "price": 1893,
+        "core_count": 16,
+        "core_clock": 3.5,
+        "boost_clock": 4.7,
+        "tdp": 105,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Threadripper 1950X",
+        "price": 541.64,
+        "core_count": 16,
+        "core_clock": 3.4,
+        "boost_clock": 4,
+        "tdp": 180,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Pentium Gold G6400",
+        "price": 53.94,
+        "core_count": 2,
+        "core_clock": 4,
+        "boost_clock": null,
+        "tdp": 58,
+        "graphics": "Intel UHD Graphics 610",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 7 1800X",
+        "price": 295,
+        "core_count": 8,
+        "core_clock": 3.6,
+        "boost_clock": 4,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-6100",
+        "price": 100,
+        "core_count": 2,
+        "core_clock": 3.7,
+        "boost_clock": null,
+        "tdp": 51,
+        "graphics": "Intel HD Graphics 530",
+        "smt": true
+    },
+    {
+        "name": "AMD Ryzen 3 1200 (14nm)",
+        "price": 115,
+        "core_count": 4,
+        "core_clock": 3.1,
+        "boost_clock": 3.4,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Xeon E5-2660",
+        "price": 28.99,
+        "core_count": 8,
+        "core_clock": 2.2,
+        "boost_clock": 3,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD 2650",
+        "price": null,
+        "core_count": 2,
+        "core_clock": 1.45,
+        "boost_clock": null,
+        "tdp": 25,
+        "graphics": "Radeon HD 8240",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-8700K",
+        "price": 355.75,
+        "core_count": 6,
+        "core_clock": 3.7,
+        "boost_clock": 4.7,
+        "tdp": 95,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-4690",
+        "price": 100.12,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 3.9,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i9-12900F",
+        "price": 432,
+        "core_count": 16,
+        "core_clock": 2.4,
+        "boost_clock": 5.1,
+        "tdp": 65,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core 2 Duo E8400",
+        "price": 27.55,
+        "core_count": 2,
+        "core_clock": 3,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "Intel Core i7-5820K",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.3,
+        "boost_clock": 3.6,
+        "tdp": 140,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "AMD Threadripper 1900X",
+        "price": 179.99,
+        "core_count": 8,
+        "core_clock": 3.8,
+        "boost_clock": 4,
+        "tdp": 180,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-10500",
+        "price": 219.99,
+        "core_count": 6,
+        "core_clock": 3.1,
+        "boost_clock": 4.5,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-6900K",
+        "price": 164.9,
+        "core_count": 8,
+        "core_clock": 3.2,
+        "boost_clock": 3.7,
+        "tdp": 140,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-4670K",
+        "price": 144.25,
+        "core_count": 4,
+        "core_clock": 3.4,
+        "boost_clock": null,
+        "tdp": 84,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": false
+    },
+    {
+        "name": "AMD Threadripper 1920X",
+        "price": 280,
+        "core_count": 12,
+        "core_clock": 3.5,
+        "boost_clock": 4,
+        "tdp": 180,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-4790K",
+        "price": 200,
+        "core_count": 4,
+        "core_clock": 4,
+        "boost_clock": 4.4,
+        "tdp": 88,
+        "graphics": "Intel HD Graphics 4600",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-10900X",
+        "price": 508,
+        "core_count": 10,
+        "core_clock": 3.7,
+        "boost_clock": 4.7,
+        "tdp": 165,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i7-6850K",
+        "price": 165,
+        "core_count": 6,
+        "core_clock": 3.6,
+        "boost_clock": 3.8,
+        "tdp": 140,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-2500K",
+        "price": 234,
+        "core_count": 4,
+        "core_clock": 3.3,
+        "boost_clock": null,
+        "tdp": 95,
+        "graphics": "Intel HD Graphics 3000",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i3-2100",
+        "price": 49,
+        "core_count": 2,
+        "core_clock": 3.1,
+        "boost_clock": null,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 2000",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i3-7350K",
+        "price": 59.99,
+        "core_count": 2,
+        "core_clock": 4.2,
+        "boost_clock": null,
+        "tdp": 60,
+        "graphics": "Intel HD Graphics 630",
+        "smt": true
+    },
+    {
+        "name": "Intel Core i9-12900",
+        "price": 458.99,
+        "core_count": 16,
+        "core_clock": 2.4,
+        "boost_clock": 5.1,
+        "tdp": 65,
+        "graphics": "Intel UHD Graphics 770",
+        "smt": true
+    },
+    {
+        "name": "AMD FX-8320",
+        "price": 109,
+        "core_count": 8,
+        "core_clock": 3.5,
+        "boost_clock": null,
+        "tdp": 125,
+        "graphics": null,
+        "smt": false
+    },
+    {
+        "name": "AMD Ryzen 5 3600X",
+        "price": null,
+        "core_count": 6,
+        "core_clock": 3.8,
+        "boost_clock": 4.4,
+        "tdp": 95,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-6600",
+        "price": null,
+        "core_count": 4,
+        "core_clock": 3.3,
+        "boost_clock": 3.9,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 530",
+        "smt": false
+    },
+    {
+        "name": "Intel Xeon E5-2687W V4",
+        "price": 2660,
+        "core_count": 12,
+        "core_clock": 3,
+        "boost_clock": 3.5,
+        "tdp": 160,
+        "graphics": null,
+        "smt": true
+    },
+    {
+        "name": "Intel Core i5-7600",
+        "price": 130,
+        "core_count": 4,
+        "core_clock": 3.5,
+        "boost_clock": 4.1,
+        "tdp": 65,
+        "graphics": "Intel HD Graphics 630",
+        "smt": false
+    },
+    {
+        "name": "Intel Core i3-7100",
+        "price": 103,
+        "core_count": 2,
+        "core_clock": 3.9,
+        "boost_clock": null,
+        "tdp": 51,
+        "graphics": "Intel HD Graphics 630",
+        "smt": true
+    }
+]

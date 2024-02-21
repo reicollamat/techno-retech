@@ -1,0 +1,1942 @@
+[
+    {
+        "name": "Corsair K60 RGB Pro",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "Cherry Viola",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Alloy Core RGB",
+        "price": 34.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K552",
+        "price": 36.99,
+        "style": "Gaming",
+        "switches": "Outemu Blue",
+        "backlit": "Red",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Mini",
+        "price": 94.99,
+        "style": "Mini",
+        "switches": "Razer Purple Optical Clicky",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries Apex Pro TKL",
+        "price": 179.99,
+        "style": "Gaming",
+        "switches": "SteelSeries QX2 OmniPoint",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 Lightspeed",
+        "price": 227.54,
+        "style": "Gaming",
+        "switches": "Logitech GL Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech K120",
+        "price": 12.97,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G19",
+        "price": null,
+        "style": "Standard",
+        "switches": null,
+        "backlit": "Multicolor",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K55 RGB PRO",
+        "price": 49.88,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "Multicolor",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Topre Realforce 87U",
+        "price": 649.33,
+        "style": "Slim",
+        "switches": "Topre Variable",
+        "backlit": "Blue",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G413 Carbon",
+        "price": 52.99,
+        "style": "Gaming",
+        "switches": "Romer-G Tactile",
+        "backlit": "Red",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon S113",
+        "price": 37.59,
+        "style": "Gaming",
+        "switches": "Outemu Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Mini",
+        "price": 101.86,
+        "style": "Mini",
+        "switches": "Razer Red Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K100 RGB",
+        "price": 249.99,
+        "style": "Gaming",
+        "switches": "Corsair OPX",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Alloy Origins Core",
+        "price": 88,
+        "style": "Gaming",
+        "switches": "HyperX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Apex Pro",
+        "price": 165.99,
+        "style": "Gaming",
+        "switches": "OmniPoint Adjustable",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "G.Skill KM360",
+        "price": 49.99,
+        "style": "Standard",
+        "switches": "Cherry MX Red",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Corsair K70 RGB MK.2",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K65 60%",
+        "price": 72.43,
+        "style": "Mini",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 TKL",
+        "price": 198.29,
+        "style": "Gaming",
+        "switches": "GL Tactile",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow X Chroma Mercury Edition",
+        "price": 354.33,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Silver / White"
+    },
+    {
+        "name": "Keychron K2 V2 Aluminum",
+        "price": 99.99,
+        "style": "Standard",
+        "switches": "Gateron G Pro Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "SteelSeries Apex 3 TKL RGB",
+        "price": 44.98,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3",
+        "price": 84.99,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G610",
+        "price": 85.98,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Tournament Edition",
+        "price": 129.99,
+        "style": "Gaming",
+        "switches": "Razer Red Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Ornata Chroma",
+        "price": 61.72,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K582 SURARA",
+        "price": 44.99,
+        "style": "Gaming",
+        "switches": "Outemu Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G213 PRODIGY",
+        "price": 49.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K100 AIR Wireless",
+        "price": 229.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Ultra Low Profile Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G715",
+        "price": 179.99,
+        "style": "Gaming",
+        "switches": "GX Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries Apex 3",
+        "price": 24.98,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 RGB MK.2 SE",
+        "price": 169.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "White / Silver"
+    },
+    {
+        "name": "HP HyperX Alloy Origins",
+        "price": 32.48,
+        "style": "Gaming",
+        "switches": "HyperX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3 Pro",
+        "price": 199.95,
+        "style": "Gaming",
+        "switches": "Razer Yellow",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Azoth",
+        "price": 219.99,
+        "style": "Mini",
+        "switches": "ROG NX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Verbatim 99201",
+        "price": 10,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asceny One",
+        "price": 19.98,
+        "style": "Mini",
+        "switches": "Gateron Blue Optical",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Mini",
+        "price": 109.99,
+        "style": "Mini",
+        "switches": "Razer Red Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G PRO",
+        "price": 71.9,
+        "style": "Gaming",
+        "switches": "GX Blue",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Elite",
+        "price": 199.99,
+        "style": "Gaming",
+        "switches": "Razer Purple",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K65 RGB MINI",
+        "price": null,
+        "style": "Mini",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Wooting Two HE",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Lekker linear60",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K95 RGB PLATINUM",
+        "price": 288.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G613",
+        "price": 72.98,
+        "style": "Standard",
+        "switches": "Romer-G Tactile",
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech Wireless Combo MK270",
+        "price": 27.99,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G413 SE",
+        "price": 47.99,
+        "style": "Gaming",
+        "switches": "Kailh LT Brown",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 TKL",
+        "price": 191.99,
+        "style": "Gaming",
+        "switches": "GL Tactile",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "White / Silver"
+    },
+    {
+        "name": "Corsair K70 RGB PRO",
+        "price": 114.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Tecware Phantom RGB",
+        "price": 45.99,
+        "style": "Gaming",
+        "switches": "Outemu Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman V2 Analog",
+        "price": 109.98,
+        "style": "Gaming",
+        "switches": "Razer Analog Optical",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Alloy Origins Core",
+        "price": 64.99,
+        "style": "Gaming",
+        "switches": "HyperX Aqua",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair STRAFE RGB MK.2",
+        "price": 117.95,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": null
+    },
+    {
+        "name": "Turtle Beach IMPACT 100",
+        "price": 12.95,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Glorious GMMK",
+        "price": 79.98,
+        "style": "Gaming",
+        "switches": "Gateron Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Turtle Beach IMPACT 700",
+        "price": 18.95,
+        "style": "Gaming",
+        "switches": "Cherry MX Brown",
+        "backlit": "Red",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Blackwidow V3 - Quartz",
+        "price": 109.33,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Pink"
+    },
+    {
+        "name": "SteelSeries Apex 5",
+        "price": 79.98,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "E-element Z88RGB81WRZ",
+        "price": 34.99,
+        "style": "Mini",
+        "switches": "Outemu Blue",
+        "backlit": "Multicolor",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Corsair K70 RGB TKL CHAMPION SERIES",
+        "price": 149.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX Keys Advanced",
+        "price": 102,
+        "style": "Slim",
+        "switches": null,
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G815 Lightsync RGB",
+        "price": 199.61,
+        "style": "Gaming",
+        "switches": "GL Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K596 Vishnu",
+        "price": 74.98,
+        "style": "Gaming",
+        "switches": "Outemu Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro X",
+        "price": 69.98,
+        "style": "Gaming",
+        "switches": "Logitech GX Blue Clicky",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Apex 7 TKL",
+        "price": 109.99,
+        "style": "Gaming",
+        "switches": "SteelSeries QX2 Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MK120",
+        "price": 17.99,
+        "style": "Slim",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K95 RGB PLATINUM XT",
+        "price": 145.96,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 Lightspeed",
+        "price": 249,
+        "style": "Gaming",
+        "switches": "Logitech GL Clicky",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Ducky One 2 Mini",
+        "price": null,
+        "style": "Standard",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White / Black"
+    },
+    {
+        "name": "Corsair K65 RGB MINI",
+        "price": 109.99,
+        "style": "Mini",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Razer Huntsman V2",
+        "price": 132.99,
+        "style": "Gaming",
+        "switches": "Razer Red Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3 Mini HyperSpeed",
+        "price": 109.99,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Cynosa V2",
+        "price": 66.75,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Ornata V2",
+        "price": null,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Huntsman Mini",
+        "price": 79.98,
+        "style": "Mini",
+        "switches": "Razer Purple Optical Clicky",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 PRO MINI",
+        "price": 119.99,
+        "style": "Mini",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon DEVARAIAS K556 RGB",
+        "price": 59.99,
+        "style": "Gaming",
+        "switches": "Outemu Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G512 CARBON",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "GX Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "G.Skill KM360",
+        "price": 55.99,
+        "style": "Standard",
+        "switches": "Cherry MX Red",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair Vengeance K70",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "Red",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Strix Flare II Animate",
+        "price": 219.99,
+        "style": "Gaming",
+        "switches": "ROG NX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V4 Pro",
+        "price": 229.99,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Lenovo 300",
+        "price": 10.19,
+        "style": "Slim",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asus M601 ROG FALCHION/RD/US",
+        "price": 149,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 TKL",
+        "price": 197.17,
+        "style": "Gaming",
+        "switches": "GL Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "GMMK Glorious Modular Mechanical Gaming Keyboard",
+        "price": 79.98,
+        "style": "Gaming",
+        "switches": "Gateron Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G915 Lightspeed",
+        "price": 214.5,
+        "style": "Gaming",
+        "switches": "Logitech GL Linear",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G Pro",
+        "price": 140,
+        "style": "Gaming",
+        "switches": "Romer-G Tactile",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathStalker V2 Pro",
+        "price": 164.99,
+        "style": "Gaming",
+        "switches": "Razer Red Low-Profile Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron K2 Hot-swappable",
+        "price": 89.99,
+        "style": "Gaming",
+        "switches": "Gateron Blue",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black / White"
+    },
+    {
+        "name": "Corsair K55 RGB PRO XT",
+        "price": 59.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Whirlwind FX Element V2",
+        "price": 29.99,
+        "style": "Gaming",
+        "switches": "Gateron Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "MSI VIGOR",
+        "price": 29.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Rosewill NEON K54",
+        "price": 21.92,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "AOC GK500",
+        "price": 49.99,
+        "style": "Gaming",
+        "switches": "Outemu Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 RGB PRO",
+        "price": 158.75,
+        "style": "Gaming",
+        "switches": "Cherry OPX",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Asus TUF Gaming Combo K1 & M3",
+        "price": 67.23,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Gunmetal"
+    },
+    {
+        "name": "Asus ROG CLAYMORE II",
+        "price": 261.99,
+        "style": "Gaming",
+        "switches": "ROG RX Red Optical",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K552-RGB",
+        "price": 48.98,
+        "style": "Gaming",
+        "switches": "Outemu Blue",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MK235",
+        "price": 22.92,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K100 RGB",
+        "price": 223.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G512 CARBON",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Romer-G Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron C2",
+        "price": 78.98,
+        "style": "Standard",
+        "switches": "Gateron G Pro Brown Hot-swappable",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / White"
+    },
+    {
+        "name": "MSI Vigor GK30",
+        "price": 38.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Ducky Ducky One 2 SF RGB",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Cherry MX Black",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Alloy Elite 2",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "HyperX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K95 RGB PLATINUM",
+        "price": 297.47,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Gunmetal"
+    },
+    {
+        "name": "SteelSeries Apex 7",
+        "price": 116.29,
+        "style": "Gaming",
+        "switches": "SteelSeries QX2 Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "EVGA Z15",
+        "price": 44.99,
+        "style": "Gaming",
+        "switches": "Kailh Silver Speed",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G513 Carbon",
+        "price": 123.95,
+        "style": "Gaming",
+        "switches": "GX Blue",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G715",
+        "price": 199.99,
+        "style": "Gaming",
+        "switches": "GX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "color": "White"
+    },
+    {
+        "name": "Razer BlackWidow V4 Pro",
+        "price": 212.93,
+        "style": "Gaming",
+        "switches": "Razer Yellow",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow Elite",
+        "price": 199.99,
+        "style": "Gaming",
+        "switches": "Razer Green",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech K845",
+        "price": 46.78,
+        "style": "Standard",
+        "switches": "TTC Red",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "RK Royal Kludge RK71",
+        "price": null,
+        "style": "Gaming",
+        "switches": "RK Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Bluetooth Wireless",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G910 Orion Spectrum RGB",
+        "price": 219.99,
+        "style": "Gaming",
+        "switches": "Romer-G Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "SHARKOON Skiller",
+        "price": null,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Strix Flare II Animate",
+        "price": 219.99,
+        "style": "Gaming",
+        "switches": "ROG NX Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G13",
+        "price": 496.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K60 RGB Pro SE",
+        "price": 74.98,
+        "style": "Gaming",
+        "switches": "Cherry Viola",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3 Mini HyperSpeed",
+        "price": 119.99,
+        "style": "Gaming",
+        "switches": "Razer Yellow",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon S101",
+        "price": 39.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Redragon K551-RGB VARA",
+        "price": 47.99,
+        "style": "Standard",
+        "switches": "Outemu Blue",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech K400 Plus",
+        "price": 26.99,
+        "style": "Mini",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black / Yellow"
+    },
+    {
+        "name": "Corsair K57 RGB",
+        "price": 107.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G710 Plus",
+        "price": 329,
+        "style": "Gaming",
+        "switches": "Cherry MX Brown",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K550-W RGB Yama",
+        "price": 84.99,
+        "style": "Gaming",
+        "switches": "Outemu Purple",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Gigabyte AORUS K1",
+        "price": 112.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious GMMK",
+        "price": 79.99,
+        "style": "Gaming",
+        "switches": "Gateron Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron K2 Plastic",
+        "price": 79.98,
+        "style": "Standard",
+        "switches": "Gateron G Pro Brown",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Razer BlackWidow V3",
+        "price": 139.99,
+        "style": "Gaming",
+        "switches": "Razer Yellow",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K68",
+        "price": null,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "Red",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron K4 V2",
+        "price": 99.99,
+        "style": "Standard",
+        "switches": "Gateron G Pro Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired, Bluetooth Wireless",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "EVGA Z20",
+        "price": 54.99,
+        "style": "Gaming",
+        "switches": "LK Light Strike Linear",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Strix Flare (Cherry MX Red)",
+        "price": 89.51,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Tecware Phantom RGB",
+        "price": 45.99,
+        "style": "Gaming",
+        "switches": "Outemu Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "ROCCAT Vulcan TKL Pro",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "Roccat Titan Optical",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair STRAFE RGB",
+        "price": 219.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Silent",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / White"
+    },
+    {
+        "name": "SteelSeries Apex 100",
+        "price": 25.75,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "Blue",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 PRO MINI",
+        "price": 119.99,
+        "style": "Mini",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Strix Scope",
+        "price": 119.99,
+        "style": "Gaming",
+        "switches": "ROG NX Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White / Gray"
+    },
+    {
+        "name": "Razer Huntsman V2",
+        "price": 162.99,
+        "style": "Gaming",
+        "switches": "Razer Red Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech MX Mechanical",
+        "price": 169.99,
+        "style": "Slim",
+        "switches": "Kailh Choc V2 Brown",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Gray / Black"
+    },
+    {
+        "name": "Logitech MK200",
+        "price": 19.99,
+        "style": "Slim",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K60 Pro",
+        "price": 92.23,
+        "style": "Gaming",
+        "switches": "Cherry OPX",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 RGB MK.2",
+        "price": 135.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Akko 5087S Shine-Through",
+        "price": null,
+        "style": "Standard",
+        "switches": "Akko CS Jelly Pink Linear",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Microsoft ANB-00006",
+        "price": 39.45,
+        "style": "Slim",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G510s",
+        "price": 540.74,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "Multicolor",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "RK Royal Kludge RK71",
+        "price": null,
+        "style": "Gaming",
+        "switches": "RK Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG CLAYMORE II",
+        "price": 243.99,
+        "style": "Gaming",
+        "switches": "ROG RX Blue Optical",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech K120 - UK Layout",
+        "price": 44.04,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Azoth",
+        "price": 249.99,
+        "style": "Mini",
+        "switches": "ROG NX Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired, Wireless, Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow V3",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "Razer Yellow",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "AmazonBasics KU-0833 +MSU0939",
+        "price": 17.43,
+        "style": "Standard",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Glorious GMMK",
+        "price": 79.99,
+        "style": "Gaming",
+        "switches": "Gateron Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K55 RGB",
+        "price": 94.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron C2",
+        "price": 64.98,
+        "style": "Standard",
+        "switches": "Gateron G Pro Brown",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black / White"
+    },
+    {
+        "name": "Corsair K70 RGB MK.2",
+        "price": 264.98,
+        "style": "Gaming",
+        "switches": "Cherry MX Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G815 Lightsync RGB",
+        "price": 196.91,
+        "style": "Gaming",
+        "switches": "GL Clicky",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Redragon K512 SHIVA RGB",
+        "price": 36.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech K845",
+        "price": 75.98,
+        "style": "Standard",
+        "switches": "Cherry MX Red",
+        "backlit": "White",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K68 RGB",
+        "price": 169,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Qisan Magicforce",
+        "price": 39.97,
+        "style": "Mini",
+        "switches": "Outemu Brown",
+        "backlit": null,
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "ROCCAT Vulcan 122 AIMO",
+        "price": 95.99,
+        "style": "Gaming",
+        "switches": "Roccat Titan Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Silver"
+    },
+    {
+        "name": "Keychron K3",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "Optical Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Gray / Black"
+    },
+    {
+        "name": "Logitech G510",
+        "price": 674.89,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "Multicolor",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Microsoft CXD-00001",
+        "price": null,
+        "style": "Ergonomic",
+        "switches": null,
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Bluetooth Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Alloy Origins",
+        "price": 89.99,
+        "style": "Gaming",
+        "switches": "HyperX Aqua",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackWidow Lite",
+        "price": 72.89,
+        "style": "Gaming",
+        "switches": "Razer Orange",
+        "backlit": "White",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Cynosa Chroma",
+        "price": null,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 RGB PRO",
+        "price": 145.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Das Keyboard Model S Professional",
+        "price": 119,
+        "style": "Standard",
+        "switches": "Cherry MX Brown",
+        "backlit": null,
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "MSI VIGOR GK50 ELITE LL",
+        "price": 59.99,
+        "style": "Gaming",
+        "switches": "Kailh Blue",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Silver / Black"
+    },
+    {
+        "name": "Keychron Q6",
+        "price": 215.99,
+        "style": "Gaming",
+        "switches": "Gateron G Pro Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Blue"
+    },
+    {
+        "name": "Cooler Master SK620",
+        "price": 45.52,
+        "style": "Gaming",
+        "switches": "TTC Blue",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Gray / Black"
+    },
+    {
+        "name": "Razer Huntsman V2",
+        "price": 116.99,
+        "style": "Gaming",
+        "switches": "Razer Purple Optical Clicky",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Cooler Master SK620",
+        "price": 50.46,
+        "style": "Gaming",
+        "switches": "TTC Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Gray / Black"
+    },
+    {
+        "name": "Corsair K95 RGB PLATINUM XT",
+        "price": 323.08,
+        "style": "Gaming",
+        "switches": "Cherry MX Blue",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K95 RGB PLATINUM XT",
+        "price": 199.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Brown",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair K70 RGB TKL CHAMPION SERIES",
+        "price": 129,
+        "style": "Gaming",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Razer DeathStalker V2 Pro",
+        "price": 245.95,
+        "style": "Gaming",
+        "switches": "Razer Red Low-Profile Optical Linear",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Tecware Phantom RGB",
+        "price": 45.99,
+        "style": "Gaming",
+        "switches": "Outemu Blue",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Rosewill NEON K51W",
+        "price": 39.99,
+        "style": "Gaming",
+        "switches": null,
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "White"
+    },
+    {
+        "name": "Logitech G810 Orion Spectrum RGB",
+        "price": 309,
+        "style": "Gaming",
+        "switches": "Romer-G Tactile",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": "Black"
+    },
+    {
+        "name": "Keychron K4 V2",
+        "price": 99.99,
+        "style": "Standard",
+        "switches": "Gateron G Pro Red",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wired, Bluetooth Wireless",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Corsair K70 PRO MINI",
+        "price": 179.99,
+        "style": "Mini",
+        "switches": "Cherry MX Speed Silver",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired, Bluetooth Wireless",
+        "color": "White"
+    },
+    {
+        "name": "Razer DeathStalker V2 Pro",
+        "price": 249,
+        "style": "Gaming",
+        "switches": "Razer Purple Low-Profile Optical Clicky",
+        "backlit": "RGB",
+        "tenkeyless": false,
+        "connection_type": "Wireless",
+        "color": "Black"
+    },
+    {
+        "name": "Cooler Master SK620",
+        "price": 55,
+        "style": "Gaming",
+        "switches": "TTC Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Silver / White"
+    },
+    {
+        "name": "Corsair K63 (MX Red w/Blue LED)",
+        "price": 109.99,
+        "style": "Gaming",
+        "switches": "Cherry MX Red",
+        "backlit": "Blue",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": null
+    },
+    {
+        "name": "Rii RK100",
+        "price": null,
+        "style": "Standard",
+        "switches": null,
+        "backlit": "Multicolor",
+        "tenkeyless": false,
+        "connection_type": "Wired",
+        "color": null
+    },
+    {
+        "name": "Keychron K2 V2 Aluminum",
+        "price": null,
+        "style": "Standard",
+        "switches": "Gateron G Pro Red",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wireless",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "SteelSeries Apex 7 TKL",
+        "price": 99.99,
+        "style": "Gaming",
+        "switches": "SteelSeries QX2 Brown",
+        "backlit": "RGB",
+        "tenkeyless": true,
+        "connection_type": "Wired",
+        "color": "Black"
+    }
+]

@@ -1,0 +1,2615 @@
+[
+    {
+        "name": "Asus TUF Gaming VG27AQ",
+        "price": 300,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VG248QG",
+        "price": 159,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 0.5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell UP3218K",
+        "price": 3999,
+        "screen_size": 32,
+        "resolution": [
+            7680,
+            4320
+        ],
+        "refresh_rate": 60,
+        "response_time": 6,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte M27Q",
+        "price": 299.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte G27Q",
+        "price": 219.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G7",
+        "price": 499.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer Nitro QG241Y Pbmiipx",
+        "price": 109.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G9 Neo S49AG952N",
+        "price": 1648.05,
+        "screen_size": 49,
+        "resolution": [
+            5120,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "32:9"
+    },
+    {
+        "name": "Acer SB220Q bi",
+        "price": 99.99,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GN800-B",
+        "price": 296.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ProArt PQ22UC",
+        "price": null,
+        "screen_size": 21.6,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 60,
+        "response_time": 1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Alienware AW3423DWF",
+        "price": 999.99,
+        "screen_size": 34.2,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 0.1,
+        "panel_type": "QD-OLED",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG249Q1A",
+        "price": 189.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S2522HG",
+        "price": 194,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift 360Hz PG27AQN",
+        "price": 1049,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 360,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte ‎M28U",
+        "price": 559.99,
+        "screen_size": 28,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GR95QE-B",
+        "price": 928.69,
+        "screen_size": 26.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 0.03,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG279QM",
+        "price": 283.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 280,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GP850-B",
+        "price": 426.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "VIOTEK GFV22CB",
+        "price": 99.99,
+        "screen_size": 22,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell UP3218K",
+        "price": 3815.85,
+        "screen_size": 31.5,
+        "resolution": [
+            7680,
+            4320
+        ],
+        "refresh_rate": 60,
+        "response_time": 6,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G24C4",
+        "price": null,
+        "screen_size": 23.6,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey Neo G8 LS32BG852NNXGO",
+        "price": 1381.21,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte G24F 2",
+        "price": 139.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 180,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VP228HE",
+        "price": 94.99,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 60,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer Nitro XV272U Vbmiiprx",
+        "price": 247.14,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer VG272 LVbmiipx",
+        "price": 197.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VG278Q",
+        "price": 139.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Corsair XENEON FLEX 45WQHD240",
+        "price": 1599.99,
+        "screen_size": 45,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 0.03,
+        "panel_type": "OLED",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Samsung ARK",
+        "price": 1999.99,
+        "screen_size": 55,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 24GN650-B",
+        "price": 246.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G8",
+        "price": 1303.55,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 175,
+        "response_time": 0.03,
+        "panel_type": "QD-OLED",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "NEC E222W-BK",
+        "price": null,
+        "screen_size": 22,
+        "resolution": [
+            1680,
+            1050
+        ],
+        "refresh_rate": null,
+        "response_time": 5,
+        "panel_type": null,
+        "aspect_ratio": "16:10"
+    },
+    {
+        "name": "Asus TUF Gaming VG27BQ",
+        "price": 295.68,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 0.4,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift OLED PG27AQDM",
+        "price": 1009.67,
+        "screen_size": 26.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 0.03,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G9",
+        "price": 1199.99,
+        "screen_size": 49,
+        "resolution": [
+            5120,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "32:9"
+    },
+    {
+        "name": "LG 27GL83A-B",
+        "price": 299.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 45GR95QE-B",
+        "price": 1699.99,
+        "screen_size": 44.5,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 0.03,
+        "panel_type": "OLED",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "AOC C27G2Z",
+        "price": 199.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VA24EHE",
+        "price": 109,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GN950-B",
+        "price": 790.28,
+        "screen_size": 27,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC 24G2SP",
+        "price": 210.45,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG27AQA1A",
+        "price": 199.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G274QRFW",
+        "price": 299.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G5",
+        "price": 329.99,
+        "screen_size": 32,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Alienware AW3423DW",
+        "price": 1199.53,
+        "screen_size": 34.2,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 175,
+        "response_time": 0.1,
+        "panel_type": "QD-OLED",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Gigabyte M32U",
+        "price": 659.99,
+        "screen_size": 31.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GL850-B",
+        "price": 309.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G7 LC32G75TQSNXZA",
+        "price": 549.99,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G24C",
+        "price": null,
+        "screen_size": 23.6,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "HP OMEN 27QS",
+        "price": 429,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Strix XG32UQ",
+        "price": 869,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 160,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Strix XG27AQM",
+        "price": 649,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 270,
+        "response_time": 0.5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G273",
+        "price": 184,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF GAMING VG249Q",
+        "price": 189,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell E1914H",
+        "price": null,
+        "screen_size": 18.5,
+        "resolution": [
+            1366,
+            768
+        ],
+        "refresh_rate": null,
+        "response_time": 5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G241",
+        "price": 225.41,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ProArt Display PA32UCG-K",
+        "price": 2999,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 120,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte ‎M34WQ",
+        "price": 399.99,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG28UQL1A",
+        "price": 599.99,
+        "screen_size": 28,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ViewSonic VX2718-2KPC-MHD",
+        "price": 219.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GN600-B",
+        "price": 263.97,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Corsair XENEON 27QHD240",
+        "price": 949.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 0.03,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Pro MP241X",
+        "price": 99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung T350",
+        "price": 109.95,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift OLED PG42UQ",
+        "price": 1299,
+        "screen_size": 41.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 138,
+        "response_time": 0.1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung S27AG50",
+        "price": 279.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC 24G2",
+        "price": 238,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VP228DE",
+        "price": 345,
+        "screen_size": 22.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 60,
+        "response_time": 5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Alienware AW2523HF",
+        "price": 373.01,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 360,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G4",
+        "price": 399.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S2721DGF",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "BenQ Zowie XL2546K",
+        "price": 429,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ProArt Display PA32UCG-K",
+        "price": 2999,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 120,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell G3223Q",
+        "price": 599.99,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ASRock PG27FF1A",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ASRock PG27Q15R2A",
+        "price": 164.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Lenovo G24-20",
+        "price": 149.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VG248QE",
+        "price": 286.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S3422DWG",
+        "price": 349.99,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": 2,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG27AQ1A",
+        "price": 299,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VP228QG",
+        "price": 94,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MAG274QRF-QD",
+        "price": 399.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G7 LS28AG700NNXZA",
+        "price": 639.99,
+        "screen_size": 28,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte ‎M32UC",
+        "price": 559.99,
+        "screen_size": 31.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 160,
+        "response_time": 2,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte M27Q-P",
+        "price": 389.12,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Sceptre C305B-200UN",
+        "price": 222.53,
+        "screen_size": 30,
+        "resolution": [
+            2560,
+            1080
+        ],
+        "refresh_rate": 200,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus TUF GAMING VG259QM",
+        "price": 279,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 280,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "HP OMEN 24",
+        "price": 169.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI G274QPF-QD",
+        "price": 329.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GP950-B",
+        "price": 874.59,
+        "screen_size": 27,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 160,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GP850-B",
+        "price": 496.99,
+        "screen_size": 32,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "BenQ Zowie XL2566K",
+        "price": 649,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 360,
+        "response_time": null,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG27AQL1A",
+        "price": 317.98,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte G27QC A",
+        "price": 279.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung U28R550",
+        "price": 249.99,
+        "screen_size": 28,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 60,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC C24G1",
+        "price": 193,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "KTC H27T22",
+        "price": 279.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Sceptre C248B-144R",
+        "price": 129.97,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 3,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "HP X24ih",
+        "price": 149.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte G34WQC A",
+        "price": 369.9,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "AOC Q27G2U/BK",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey Neo G7",
+        "price": 1099.99,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Alienware AW2524H",
+        "price": null,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 500,
+        "response_time": 0.5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S2719DGF",
+        "price": 429,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 155,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 22MP410-B",
+        "price": 79.99,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 20,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung NC191-T",
+        "price": 59.02,
+        "screen_size": 19,
+        "resolution": [
+            1280,
+            1024
+        ],
+        "refresh_rate": null,
+        "response_time": 5,
+        "panel_type": null,
+        "aspect_ratio": "5:4"
+    },
+    {
+        "name": "Samsung Odyssey G3",
+        "price": 181.76,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ViewSonic VX2418C",
+        "price": 129.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ViewSonic XG2431",
+        "price": 271.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC C27G2ZE/BK",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG UltraGear 27GN95B-B",
+        "price": 619.99,
+        "screen_size": 27,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 34GN850-B",
+        "price": null,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 160,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "ViewSonic ELITE XG321UG",
+        "price": 2499.98,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 3,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung LC27G55TQWNXZA",
+        "price": 257.75,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG34VQL1B",
+        "price": 469,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": null,
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus ROG Strix XG27AQMR",
+        "price": 649,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 300,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC 24B2XH",
+        "price": 99.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 8,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S2722DGM",
+        "price": 249.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 2,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift PG259QN",
+        "price": 539.9,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 360,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VG278QR",
+        "price": 188.95,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 0.5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF Gaming VG27WQ1B",
+        "price": 269,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G5 C34G55T",
+        "price": 399.99,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "AOC CU34G2X/BK",
+        "price": 489.98,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Dell AW2723DF",
+        "price": 549.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift PG279QM",
+        "price": 719.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 24GQ50F-B",
+        "price": 136.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG SWIFT PG27UQ",
+        "price": 2719.21,
+        "screen_size": 27,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Sceptre E275B-QPT168",
+        "price": 252.76,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung CRG50",
+        "price": 149.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "BenQ ZOWIE XL2411P",
+        "price": null,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift OLED PG48UQ",
+        "price": 1499,
+        "screen_size": 47.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 138,
+        "response_time": 0.1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G271",
+        "price": 229.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer XV252Q FBMIIPRX",
+        "price": 513.4,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 390,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MAG342CQR",
+        "price": 369.99,
+        "screen_size": 34,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Dell E1916HV",
+        "price": 70.87,
+        "screen_size": 18.5,
+        "resolution": [
+            1366,
+            768
+        ],
+        "refresh_rate": 60,
+        "response_time": 5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Monoprice CrystalPro",
+        "price": 149.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 24GN600-B",
+        "price": null,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GP750-B",
+        "price": 346,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer KA272U biipx",
+        "price": 199.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 75,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Pixio PX248 Prime",
+        "price": 149.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MAG2732",
+        "price": 219.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G32A",
+        "price": 168.7,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI PRO MP273",
+        "price": 139.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Alienware AW2521HF",
+        "price": 429.99,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung C24F390",
+        "price": 119.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 60,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG OLED evo",
+        "price": null,
+        "screen_size": 42,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 120,
+        "response_time": null,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G273QPF",
+        "price": 399,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift PG259QNR",
+        "price": 539.9,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 360,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ProArt Display PA278QV",
+        "price": 289,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G40B",
+        "price": 246.13,
+        "screen_size": 25,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte M32Q",
+        "price": 399.99,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC C24G1A",
+        "price": 149.99,
+        "screen_size": 23.6,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G27CQ4",
+        "price": 263.08,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GQ850-B",
+        "price": 649.99,
+        "screen_size": 32,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte M27Q-X",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GK650F-B",
+        "price": 269.99,
+        "screen_size": 32,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": 5,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "HP OMEN X Emperium 65",
+        "price": null,
+        "screen_size": 65,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G2412",
+        "price": 159.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": null,
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MPG321UR-QD",
+        "price": 899.99,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Strix XG349C",
+        "price": 764.99,
+        "screen_size": 34.1,
+        "resolution": [
+            3440,
+            1440
+        ],
+        "refresh_rate": 180,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "ASRock PG27F15RS1A",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "ViewSonic VX2418-P-MHD",
+        "price": 129.99,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 24GN50W-B",
+        "price": 120.06,
+        "screen_size": 24,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte M27F A",
+        "price": 229.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G50A",
+        "price": 368.12,
+        "screen_size": 32,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer XZ270 Xbmiipx",
+        "price": 226.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VP249QGR",
+        "price": 199.99,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer EI322QUR Pbmiippx",
+        "price": 295.95,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung T350",
+        "price": 124,
+        "screen_size": 22,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Strix XG249CM",
+        "price": 269,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 270,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer KG241Y Sbiip",
+        "price": 179.83,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "AOC CQ27G2U/BK",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Philips 242E1GSJ",
+        "price": 174,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ProArt Display PA32DC",
+        "price": 3235.11,
+        "screen_size": 31.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 60,
+        "response_time": 0.1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MAG281URF",
+        "price": 578.15,
+        "screen_size": 27.9,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 48GQ900-B",
+        "price": 1196.99,
+        "screen_size": 47.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 120,
+        "response_time": 0.1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VG279Q1A",
+        "price": 229,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer XV320QU LVbmiiphx",
+        "price": 209.99,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix MAG301RF",
+        "price": 269.99,
+        "screen_size": 29.5,
+        "resolution": [
+            2560,
+            1080
+        ],
+        "refresh_rate": 200,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "21:9"
+    },
+    {
+        "name": "Asus ROG Strix XG27AQV",
+        "price": 349,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 170,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer R240HY bidx",
+        "price": 121.84,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 60,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung LC27F396FHNXZA",
+        "price": 149,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 60,
+        "response_time": 4,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Dell S3222DGM",
+        "price": 349.99,
+        "screen_size": 31.5,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 2,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Sceptre E205W-1600",
+        "price": 69.97,
+        "screen_size": 20,
+        "resolution": [
+            1600,
+            900
+        ],
+        "refresh_rate": 60,
+        "response_time": 5,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Sceptre E205W-16003R",
+        "price": 75.78,
+        "screen_size": 19.5,
+        "resolution": [
+            1600,
+            900
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": null,
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus VP229HE",
+        "price": 94,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": 5,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GP700-B",
+        "price": 299.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 240,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "BenQ MOBIUZ EX2510S",
+        "price": 199.99,
+        "screen_size": 24.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": 2,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 27GP83B-B",
+        "price": 449.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus ROG Swift PG32UQX",
+        "price": 2299,
+        "screen_size": 32,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 4,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 24GL600F-B",
+        "price": 178.99,
+        "screen_size": 23.6,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "TN",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer HA220Q Bbix",
+        "price": 89,
+        "screen_size": 21.5,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 75,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "MSI Optix G272",
+        "price": 186,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 144,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte AORUS FO48U",
+        "price": 849.99,
+        "screen_size": 47.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": null,
+        "response_time": 1,
+        "panel_type": "OLED",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Asus TUF GAMING VG247Q1A",
+        "price": 159,
+        "screen_size": 23.8,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Acer ED270R Sbiipx",
+        "price": 149,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 165,
+        "response_time": null,
+        "panel_type": "VA",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Gigabyte G27F 2",
+        "price": 179.99,
+        "screen_size": 27,
+        "resolution": [
+            1920,
+            1080
+        ],
+        "refresh_rate": 170,
+        "response_time": null,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "LG 32GQ950-B",
+        "price": 984.29,
+        "screen_size": 31.5,
+        "resolution": [
+            3840,
+            2160
+        ],
+        "refresh_rate": 144,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "HP X27q",
+        "price": 379.99,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    },
+    {
+        "name": "Samsung Odyssey G52A",
+        "price": null,
+        "screen_size": 27,
+        "resolution": [
+            2560,
+            1440
+        ],
+        "refresh_rate": 165,
+        "response_time": 1,
+        "panel_type": "IPS",
+        "aspect_ratio": "16:9"
+    }
+]

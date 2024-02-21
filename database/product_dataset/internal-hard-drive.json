@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "Samsung 970 Evo Plus",
+        "price": 54.99,
+        "capacity": 1000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 980 Pro",
+        "price": 99.99,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 980 Pro",
+        "price": 59.99,
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston NV2",
+        "price": 42.99,
+        "capacity": 1000,
+        "price_per_gb": 0.043,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate Barracuda Compute",
+        "price": 55,
+        "capacity": 2000,
+        "price_per_gb": 0.028,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 990 Pro",
+        "price": 169.99,
+        "capacity": 2000,
+        "price_per_gb": 0.085,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 970 Evo Plus",
+        "price": 99.99,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Black SN770",
+        "price": 49.99,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P3",
+        "price": 39.99,
+        "capacity": 1000,
+        "price_per_gb": 0.04,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 970 Evo Plus",
+        "price": 34.99,
+        "capacity": 500,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "TEAMGROUP QX",
+        "price": 2499.98,
+        "capacity": 15300,
+        "price_per_gb": 0.163,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Kingston NV2",
+        "price": 84.99,
+        "capacity": 2000,
+        "price_per_gb": 0.042,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 870 Evo",
+        "price": 59.99,
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Black SN850X",
+        "price": 139.99,
+        "capacity": 2000,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate BarraCuda",
+        "price": 63.98,
+        "capacity": 4000,
+        "price_per_gb": 0.016,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Black SN850X",
+        "price": 283.49,
+        "capacity": 4000,
+        "price_per_gb": 0.071,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Blue SN570",
+        "price": 45.99,
+        "capacity": 1000,
+        "price_per_gb": 0.046,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Black SN770",
+        "price": 112.99,
+        "capacity": 2000,
+        "price_per_gb": 0.056,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "price": 49.99,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 870 Evo",
+        "price": 99.99,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 980",
+        "price": 49.99,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP33",
+        "price": 38.49,
+        "capacity": 1000,
+        "price_per_gb": 0.038,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Silicon Power A60",
+        "price": 35.97,
+        "capacity": 1000,
+        "price_per_gb": 0.036,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial P5 Plus",
+        "price": 122.99,
+        "capacity": 2000,
+        "price_per_gb": 0.061,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Caviar Blue",
+        "price": 41,
+        "capacity": 1000,
+        "price_per_gb": 0.041,
+        "type": 7200,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus",
+        "price": 999.99,
+        "capacity": 8000,
+        "price_per_gb": 0.125,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 990 Pro",
+        "price": 69.99,
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Black SN850X",
+        "price": 59.99,
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 870 Evo",
+        "price": 219,
+        "capacity": 4000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": 4096,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "price": 104.81,
+        "capacity": 2000,
+        "price_per_gb": 0.052,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston NV2",
+        "price": 27.99,
+        "capacity": 500,
+        "price_per_gb": 0.056,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate BarraCuda",
+        "price": 43.23,
+        "capacity": 1000,
+        "price_per_gb": 0.043,
+        "type": 7200,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "MSI SPATIUM M371",
+        "price": 34.99,
+        "capacity": 1000,
+        "price_per_gb": 0.035,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 870 QVO",
+        "price": 399.99,
+        "capacity": 8000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Crucial P5 Plus",
+        "price": 49.99,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power A60",
+        "price": 65.97,
+        "capacity": 2000,
+        "price_per_gb": 0.033,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP33",
+        "price": 65.98,
+        "capacity": 2000,
+        "price_per_gb": 0.033,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "price": 248.49,
+        "capacity": 4000,
+        "price_per_gb": 0.062,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP33",
+        "price": 22.49,
+        "capacity": 512,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial P3",
+        "price": 24.99,
+        "capacity": 500,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Kingston A400",
+        "price": 16.98,
+        "capacity": 240,
+        "price_per_gb": 0.071,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Intel 670p",
+        "price": 69.98,
+        "capacity": 2000,
+        "price_per_gb": 0.035,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Blue SN570",
+        "price": 26.99,
+        "capacity": 500,
+        "price_per_gb": 0.054,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial T700",
+        "price": 572.96,
+        "capacity": 4000,
+        "price_per_gb": 0.143,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Samsung 980 Pro",
+        "price": 49.99,
+        "capacity": 500,
+        "price_per_gb": 0.1,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P3",
+        "price": 83.29,
+        "capacity": 2000,
+        "price_per_gb": 0.042,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial MX500",
+        "price": 47.99,
+        "capacity": 1000,
+        "price_per_gb": 0.048,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Gold",
+        "price": 549.99,
+        "capacity": 22000,
+        "price_per_gb": 0.025,
+        "type": 7200,
+        "cache": 512,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Kingston KC3000",
+        "price": 145.13,
+        "capacity": 2048,
+        "price_per_gb": 0.071,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate Barracuda Compute",
+        "price": 114.99,
+        "capacity": 8000,
+        "price_per_gb": 0.014,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 870 Evo",
+        "price": 39.25,
+        "capacity": 500,
+        "price_per_gb": 0.079,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 53.99,
+        "capacity": 2000,
+        "price_per_gb": 0.027,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 970 Evo Plus",
+        "price": 31.48,
+        "capacity": 250,
+        "price_per_gb": 0.126,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Seagate IronWolf Pro NAS",
+        "price": 289.99,
+        "capacity": 22000,
+        "price_per_gb": 0.013,
+        "type": 7200,
+        "cache": 512,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "MSI SPATIUM M450",
+        "price": 37.99,
+        "capacity": 1000,
+        "price_per_gb": 0.038,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power P34A60",
+        "price": 22.97,
+        "capacity": 512,
+        "price_per_gb": 0.045,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial T700",
+        "price": 179.99,
+        "capacity": 1000,
+        "price_per_gb": 0.18,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Corsair MP600 PRO XT",
+        "price": 1014.99,
+        "capacity": 8000,
+        "price_per_gb": 0.127,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power UD90",
+        "price": 78.97,
+        "capacity": 2000,
+        "price_per_gb": 0.039,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P3",
+        "price": 209.76,
+        "capacity": 4000,
+        "price_per_gb": 0.052,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 980 Pro w/Heatsink",
+        "price": 126,
+        "capacity": 2000,
+        "price_per_gb": 0.063,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Solidigm P41 Plus",
+        "price": 79.99,
+        "capacity": 2000,
+        "price_per_gb": 0.04,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "SK Hynix Platinum P41",
+        "price": null,
+        "capacity": 2000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus",
+        "price": 129.99,
+        "capacity": 2000,
+        "price_per_gb": 0.065,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 980",
+        "price": 27.99,
+        "capacity": 500,
+        "price_per_gb": 0.056,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial P3 Plus",
+        "price": 26.99,
+        "capacity": 500,
+        "price_per_gb": 0.054,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Blue SN570",
+        "price": 92.99,
+        "capacity": 2000,
+        "price_per_gb": 0.046,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Kingston KC3000",
+        "price": 89.47,
+        "capacity": 1024,
+        "price_per_gb": 0.087,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston A400",
+        "price": 23.99,
+        "capacity": 480,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Black SN770",
+        "price": 29.99,
+        "capacity": 500,
+        "price_per_gb": 0.06,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Intel 670p",
+        "price": 39.99,
+        "capacity": 1000,
+        "price_per_gb": 0.04,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial MX500",
+        "price": 114.99,
+        "capacity": 2000,
+        "price_per_gb": 0.057,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital WD_BLACK",
+        "price": 134.99,
+        "capacity": 4000,
+        "price_per_gb": 0.034,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Solidigm P44 Pro",
+        "price": 129.99,
+        "capacity": 2000,
+        "price_per_gb": 0.065,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "MSI SPATIUM M461",
+        "price": 49.98,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "MSI SPATIUM M450",
+        "price": 24.99,
+        "capacity": 500,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 990 Pro w/Heatsink",
+        "price": 179.99,
+        "capacity": 2000,
+        "price_per_gb": 0.09,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial T700 W/Heatsink",
+        "price": 598.05,
+        "capacity": 4000,
+        "price_per_gb": 0.15,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Kingston Fury Renegade",
+        "price": 149.99,
+        "capacity": 2000,
+        "price_per_gb": 0.075,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power A55",
+        "price": 34.97,
+        "capacity": 1000,
+        "price_per_gb": 0.035,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Crucial T700",
+        "price": 339.99,
+        "capacity": 2000,
+        "price_per_gb": 0.17,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Samsung 860 Evo",
+        "price": 110,
+        "capacity": 1000,
+        "price_per_gb": 0.11,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate IronWolf NAS",
+        "price": 129.99,
+        "capacity": 8000,
+        "price_per_gb": 0.016,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Silicon Power UD90",
+        "price": 43.97,
+        "capacity": 1000,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Corsair MP600 PRO NH",
+        "price": 909.99,
+        "capacity": 8000,
+        "price_per_gb": 0.114,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston Fury Renegade",
+        "price": 79.98,
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate Exos X20",
+        "price": 288.99,
+        "capacity": 20000,
+        "price_per_gb": 0.014,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate FireCuda 530",
+        "price": 132.75,
+        "capacity": 2000,
+        "price_per_gb": 0.066,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 980 Pro w/Heatsink",
+        "price": 69.98,
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston A400",
+        "price": 39.99,
+        "capacity": 960,
+        "price_per_gb": 0.042,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate SuperSpeed HDD",
+        "price": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "type": null,
+        "cache": 64,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "TEAMGROUP MP34",
+        "price": 75.98,
+        "capacity": 2000,
+        "price_per_gb": 0.038,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital DC HC530",
+        "price": 159,
+        "capacity": 14000,
+        "price_per_gb": 0.011,
+        "type": 7200,
+        "cache": 512,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 69.98,
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "TEAMGROUP MS30",
+        "price": 19.98,
+        "capacity": 512,
+        "price_per_gb": 0.039,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 SATA"
+    },
+    {
+        "name": "Kingston NV2",
+        "price": 24.8,
+        "capacity": 250,
+        "price_per_gb": 0.099,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial MX500",
+        "price": 34.95,
+        "capacity": 500,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Corsair MP600 CORE XT",
+        "price": 94.99,
+        "capacity": 2000,
+        "price_per_gb": 0.047,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate BarraCuda",
+        "price": 63.34,
+        "capacity": 2000,
+        "price_per_gb": 0.032,
+        "type": 7200,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Patriot Burst Elite",
+        "price": 11.49,
+        "capacity": 120,
+        "price_per_gb": 0.096,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 860 Evo",
+        "price": null,
+        "capacity": 500,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "MSI SPATIUM M461",
+        "price": null,
+        "capacity": 4000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Mushkin ALPHA",
+        "price": 1488.88,
+        "capacity": 8000,
+        "price_per_gb": 0.186,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial MX500",
+        "price": 206.99,
+        "capacity": 4000,
+        "price_per_gb": 0.052,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Kingston A400",
+        "price": 14.99,
+        "capacity": 120,
+        "price_per_gb": 0.125,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Green SN350",
+        "price": 43.99,
+        "capacity": 1000,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Silicon Power UD85",
+        "price": 72.97,
+        "capacity": 2000,
+        "price_per_gb": 0.036,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Corsair MP600 PRO XT",
+        "price": 124.99,
+        "capacity": 2000,
+        "price_per_gb": 0.062,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power A55",
+        "price": 64.97,
+        "capacity": 2000,
+        "price_per_gb": 0.032,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Gigabyte AORUS Gen5",
+        "price": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus",
+        "price": 349.99,
+        "capacity": 4000,
+        "price_per_gb": 0.087,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power XS70",
+        "price": 104.97,
+        "capacity": 2000,
+        "price_per_gb": 0.052,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP34",
+        "price": 44.49,
+        "capacity": 1000,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial P2",
+        "price": 62.03,
+        "capacity": 1000,
+        "price_per_gb": 0.062,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Intel 670p",
+        "price": 31.99,
+        "capacity": 512,
+        "price_per_gb": 0.062,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 870 QVO",
+        "price": 99.99,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Black SN850X w/Heatsink",
+        "price": 142.99,
+        "capacity": 2000,
+        "price_per_gb": 0.071,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP34",
+        "price": 185.99,
+        "capacity": 4000,
+        "price_per_gb": 0.046,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Sabrent Rocket 4.0",
+        "price": 59.99,
+        "capacity": 1000,
+        "price_per_gb": 0.06,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "ADATA XPG GAMMIX S70 Blade",
+        "price": 54.99,
+        "capacity": 1000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Patriot P300",
+        "price": 17.98,
+        "capacity": 256,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 850 Evo",
+        "price": null,
+        "capacity": 250,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Silicon Power A80",
+        "price": 78.97,
+        "capacity": 2000,
+        "price_per_gb": 0.039,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "TEAMGROUP Cardea Zero Z440 Graphene",
+        "price": 48.99,
+        "capacity": 1000,
+        "price_per_gb": 0.049,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Leven JPS600",
+        "price": 63.99,
+        "capacity": 2000,
+        "price_per_gb": 0.032,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "ADATA XPG GAMMIX S70 Blade",
+        "price": 99.99,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Samsung 970 Evo",
+        "price": 105,
+        "capacity": 1000,
+        "price_per_gb": 0.105,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Seagate IronWolf Pro",
+        "price": 124.99,
+        "capacity": 4000,
+        "price_per_gb": 0.031,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 980 Pro",
+        "price": 36.99,
+        "capacity": 250,
+        "price_per_gb": 0.148,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Solidigm P44 Pro",
+        "price": 79.98,
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power A55",
+        "price": 14.97,
+        "capacity": 256,
+        "price_per_gb": 0.058,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 81.99,
+        "capacity": 4000,
+        "price_per_gb": 0.02,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate Barracuda Compute",
+        "price": 101.98,
+        "capacity": 8000,
+        "price_per_gb": 0.013,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Crucial BX500",
+        "price": 41.99,
+        "capacity": 1000,
+        "price_per_gb": 0.042,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Leven JPS600",
+        "price": 34.99,
+        "capacity": 1000,
+        "price_per_gb": 0.035,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "TEAMGROUP MP44L",
+        "price": 87.99,
+        "capacity": 2000,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate IronWolf NAS",
+        "price": 69.99,
+        "capacity": 4000,
+        "price_per_gb": 0.017,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue SN550",
+        "price": 91.44,
+        "capacity": 1000,
+        "price_per_gb": 0.091,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Red",
+        "price": 68.45,
+        "capacity": 4000,
+        "price_per_gb": 0.017,
+        "type": 5400,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 870 QVO",
+        "price": 215,
+        "capacity": 4000,
+        "price_per_gb": 0.054,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "TEAMGROUP T-Force Cardea Z44L",
+        "price": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "TEAMGROUP Cardea Zero Z440",
+        "price": 88.99,
+        "capacity": 2000,
+        "price_per_gb": 0.044,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate BarraCuda",
+        "price": 30.22,
+        "capacity": 1000,
+        "price_per_gb": 0.03,
+        "type": 7200,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 970 Evo",
+        "price": 61.99,
+        "capacity": 500,
+        "price_per_gb": 0.124,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "ADATA Legend 800",
+        "price": 89.99,
+        "capacity": 2000,
+        "price_per_gb": 0.045,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P5 Plus",
+        "price": 42.99,
+        "capacity": 500,
+        "price_per_gb": 0.086,
+        "type": "SSD",
+        "cache": 1024,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Lexar NM620",
+        "price": 69,
+        "capacity": 1000,
+        "price_per_gb": 0.069,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Toshiba MK3276GSX",
+        "price": 12.7,
+        "capacity": 320,
+        "price_per_gb": 0.04,
+        "type": 5400,
+        "cache": 8,
+        "form_factor": 2.5,
+        "interface": "SATA 3.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Black SN750",
+        "price": 112.97,
+        "capacity": 1000,
+        "price_per_gb": 0.113,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Silicon Power A55",
+        "price": 21.97,
+        "capacity": 512,
+        "price_per_gb": 0.043,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate FireCuda 530",
+        "price": 69.45,
+        "capacity": 1000,
+        "price_per_gb": 0.069,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 114.99,
+        "capacity": 8000,
+        "price_per_gb": 0.014,
+        "type": 5640,
+        "cache": 128,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 850 Evo",
+        "price": null,
+        "capacity": 500,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 49,
+        "capacity": 500,
+        "price_per_gb": 0.098,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Seagate FireCuda 530",
+        "price": 331.72,
+        "capacity": 4000,
+        "price_per_gb": 0.083,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "MSI SPATIUM M570 HS",
+        "price": 289.99,
+        "capacity": 2000,
+        "price_per_gb": 0.145,
+        "type": "SSD",
+        "cache": 4096,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Intel 750",
+        "price": 2488.87,
+        "capacity": 1200,
+        "price_per_gb": 2.074,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "PCIe",
+        "interface": "PCIe x4"
+    },
+    {
+        "name": "PNY CS1030",
+        "price": 35.99,
+        "capacity": 1000,
+        "price_per_gb": 0.036,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Black SN850X w/Heatsink",
+        "price": 69.99,
+        "capacity": 1000,
+        "price_per_gb": 0.07,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Seagate Surveillance HDD",
+        "price": 100,
+        "capacity": 2000,
+        "price_per_gb": 0.05,
+        "type": 5400,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "ADATA XPG SX8200 Pro",
+        "price": 44.99,
+        "capacity": 1000,
+        "price_per_gb": 0.045,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Seagate FireCuda",
+        "price": 89.99,
+        "capacity": 4000,
+        "price_per_gb": 0.022,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "MSI SPATIUM M461",
+        "price": 86.99,
+        "capacity": 2000,
+        "price_per_gb": 0.043,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power A55",
+        "price": 19.97,
+        "capacity": 512,
+        "price_per_gb": 0.039,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 SATA"
+    },
+    {
+        "name": "Corsair MP700",
+        "price": 289.99,
+        "capacity": 2000,
+        "price_per_gb": 0.145,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 5.0 X4"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 36.99,
+        "capacity": 1000,
+        "price_per_gb": 0.037,
+        "type": 5400,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Samsung 870 QVO",
+        "price": 59,
+        "capacity": 1000,
+        "price_per_gb": 0.059,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Silicon Power UD85",
+        "price": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Silicon Power P34A60",
+        "price": 16.97,
+        "capacity": 256,
+        "price_per_gb": 0.066,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Solidigm P41 Plus",
+        "price": 49.99,
+        "capacity": 1000,
+        "price_per_gb": 0.05,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Leven JS600",
+        "price": 32.99,
+        "capacity": 1000,
+        "price_per_gb": 0.033,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Mushkin Source HC",
+        "price": null,
+        "capacity": 16000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "SK Hynix Platinum P41",
+        "price": 71.98,
+        "capacity": 1000,
+        "price_per_gb": 0.072,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Kingston NV2",
+        "price": 204.99,
+        "capacity": 4000,
+        "price_per_gb": 0.051,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Corsair MP600 CORE XT",
+        "price": 219.99,
+        "capacity": 4000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "PNY CS900",
+        "price": 34.99,
+        "capacity": 1000,
+        "price_per_gb": 0.035,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Caviar Blue",
+        "price": 22,
+        "capacity": 500,
+        "price_per_gb": 0.044,
+        "type": 7200,
+        "cache": 16,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "PNY CS900",
+        "price": 61.99,
+        "capacity": 2000,
+        "price_per_gb": 0.031,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus",
+        "price": 79.98,
+        "capacity": 1000,
+        "price_per_gb": 0.08,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Mushkin ELEMENT",
+        "price": 20.41,
+        "capacity": 128,
+        "price_per_gb": 0.159,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "TEAMGROUP T-Force Vulcan Z",
+        "price": 38.49,
+        "capacity": 1000,
+        "price_per_gb": 0.038,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Red Pro",
+        "price": 409.99,
+        "capacity": 22000,
+        "price_per_gb": 0.019,
+        "type": 7200,
+        "cache": 512,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "KIOXIA EXCERIA G2",
+        "price": null,
+        "capacity": 1000,
+        "price_per_gb": null,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Corsair MP600",
+        "price": 62.99,
+        "capacity": 1000,
+        "price_per_gb": 0.063,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Crucial P2",
+        "price": 43.99,
+        "capacity": 500,
+        "price_per_gb": 0.088,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital WD_BLACK",
+        "price": 77.5,
+        "capacity": 2000,
+        "price_per_gb": 0.039,
+        "type": 7200,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "ADATA XPG SX8200 Pro",
+        "price": 84.99,
+        "capacity": 2000,
+        "price_per_gb": 0.042,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Acer Predator GM7000",
+        "price": 109.99,
+        "capacity": 2000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": 2048,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Patriot P300",
+        "price": 14.99,
+        "capacity": 128,
+        "price_per_gb": 0.117,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "SK Hynix Gold P31",
+        "price": 51.19,
+        "capacity": 1000,
+        "price_per_gb": 0.051,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Samsung 870 Evo",
+        "price": 32.25,
+        "capacity": 250,
+        "price_per_gb": 0.129,
+        "type": "SSD",
+        "cache": 512,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Timetec 35TTFP6PCIE",
+        "price": 35.99,
+        "capacity": 1000,
+        "price_per_gb": 0.036,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Crucial BX500",
+        "price": 89.99,
+        "capacity": 2000,
+        "price_per_gb": 0.045,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": 2.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Corsair MP600 CORE XT",
+        "price": 54.99,
+        "capacity": 1000,
+        "price_per_gb": 0.055,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Western Digital Blue",
+        "price": 52.83,
+        "capacity": 3000,
+        "price_per_gb": 0.018,
+        "type": 5400,
+        "cache": 64,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital WD_BLACK",
+        "price": 240.72,
+        "capacity": 10000,
+        "price_per_gb": 0.024,
+        "type": 7200,
+        "cache": 256,
+        "form_factor": 3.5,
+        "interface": "SATA 6.0 Gb/s"
+    },
+    {
+        "name": "Western Digital Blue SN550",
+        "price": 34,
+        "capacity": 500,
+        "price_per_gb": 0.068,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "MSI SPATIUM M371",
+        "price": 74.99,
+        "capacity": 2000,
+        "price_per_gb": 0.037,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 3.0 X4"
+    },
+    {
+        "name": "Western Digital Black SN850",
+        "price": 94.99,
+        "capacity": 1000,
+        "price_per_gb": 0.095,
+        "type": "SSD",
+        "cache": null,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    },
+    {
+        "name": "Acer Predator GM7000",
+        "price": 249.99,
+        "capacity": 4000,
+        "price_per_gb": 0.062,
+        "type": "SSD",
+        "cache": 4096,
+        "form_factor": "M.2-2280",
+        "interface": "M.2 PCIe 4.0 X4"
+    }
+]

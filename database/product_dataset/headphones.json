@@ -1,0 +1,2575 @@
+[
+    {
+        "name": "HiFiMAN Susvara",
+        "price": 5999,
+        "type": "Circumaural",
+        "frequency_response": [
+            6,
+            75
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Silver / Brown"
+    },
+    {
+        "name": "HP HyperX Cloud II",
+        "price": 74.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Razer BlackShark V2 X",
+        "price": 48.67,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Logitech Pro X",
+        "price": 94.22,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Nova Pro Wireless for PC, PS5, and PS4",
+        "price": 349,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 770 PRO",
+        "price": 159,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            35
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Gray"
+    },
+    {
+        "name": "SteelSeries Arctis 1",
+        "price": 49.97,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackShark V2 Pro",
+        "price": 129.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / White"
+    },
+    {
+        "name": "Corsair Virtuoso RGB",
+        "price": 129.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Corsair VOID RGB ELITE",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            30
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech Pro X",
+        "price": 180.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer BlackShark V2 Pro (2023)",
+        "price": 199,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair VIRTUOSO RGB Wireless XT",
+        "price": 229.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Beyerdynamic DT990 Premium Limited-Edition",
+        "price": 159,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            35
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Nova 7",
+        "price": 141.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            22
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud II",
+        "price": 79.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Gunmetal"
+    },
+    {
+        "name": "Logitech G432",
+        "price": 45.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Sennheiser HD 820",
+        "price": 1699.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            6,
+            48
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G733",
+        "price": 149,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Gray"
+    },
+    {
+        "name": "Astro A50 + Base Station",
+        "price": 298.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Gold"
+    },
+    {
+        "name": "Sony XM5",
+        "price": 384.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            4,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Pro Wireless",
+        "price": 445,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "SteelSeries Arctis 1",
+        "price": 65.11,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser HD 560S",
+        "price": 229.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            6,
+            38
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HS80 RGB",
+        "price": 131.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G733",
+        "price": 118.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud II",
+        "price": 119.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "SteelSeries ARCTIS 5 (2019 Edition)",
+        "price": 99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            22
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair VOID RGB ELITE",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            30
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Audio-Technica ATH-M50x",
+        "price": 169,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Razer BlackShark V2",
+        "price": 79.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "HP HyperX Cloud Alpha",
+        "price": 79.23,
+        "type": "Circumaural",
+        "frequency_response": [
+            13,
+            27
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Logitech G435",
+        "price": 49.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Yellow"
+    },
+    {
+        "name": "SteelSeries Arctis Pro",
+        "price": 434.51,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Barracuda Pro",
+        "price": 222.36,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken Kitty",
+        "price": 118.56,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Pink"
+    },
+    {
+        "name": "DROP Drop + Sennheiser PC38X",
+        "price": 180,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            30
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Barracuda X",
+        "price": 90.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT1990 Pro",
+        "price": 499,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser HD 800 S",
+        "price": 1499.92,
+        "type": "Circumaural",
+        "frequency_response": [
+            4,
+            51
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Razer Kraken X",
+        "price": 58.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 990 Pro 250",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            35
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Philips SHP9500",
+        "price": 74.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            35
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G435",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Blue"
+    },
+    {
+        "name": "Logitech G935",
+        "price": 114.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Logitech G332",
+        "price": 27.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Razer BlackShark V2 Pro (2023)",
+        "price": 199.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Black"
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 249.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 900 Pro X",
+        "price": 188.79,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Sony WH1000XM4",
+        "price": 348,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer NARI ESSENTIAL",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries ARCTIS 7 2019 Edition",
+        "price": 206.15,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Alpha",
+        "price": 189.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            21
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Logitech G535 LIGHTSPEED",
+        "price": 94.84,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Corsair HS60 PRO SURROUND",
+        "price": 69,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Alpha S",
+        "price": 87.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            13,
+            27
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser HD 650",
+        "price": 340.16,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            39.5
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Barracuda X",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Gray"
+    },
+    {
+        "name": "SteelSeries Arctis 9",
+        "price": 178.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Yamaha EPH-20PI",
+        "price": 4.99,
+        "type": "In Ear",
+        "frequency_response": [
+            20,
+            21
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Pink"
+    },
+    {
+        "name": "Razer Kraken V3 Pro",
+        "price": 173,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Theta 7.1",
+        "price": 265,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser HD600",
+        "price": 298,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            39
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "HiFiMAN HE1000",
+        "price": 1899,
+        "type": "Circumaural",
+        "frequency_response": [
+            8,
+            65
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Silver / Brown"
+    },
+    {
+        "name": "HP HyperX Cloud Stinger Core - Wireless",
+        "price": 59.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            21
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair Virtuoso RGB",
+        "price": 176.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Astro Gaming A10",
+        "price": 34.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Sennheiser HD 660 S",
+        "price": 347,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            41
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Stinger",
+        "price": 29.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            18,
+            23
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "SteelSeries Arctis Nova Pro Wireless for Xbox X|S, and Xbox One",
+        "price": 299.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Asus ROG Delta",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Sennheiser GSP 300",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            26
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Razer Kraken V3 X",
+        "price": 44.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Flight",
+        "price": 79.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            23
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Audio-Technica ATH-AD2000X",
+        "price": 718,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            45
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Razer NARI ULTIMATE",
+        "price": 100.41,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Astro A40 + MIXAMP Pro",
+        "price": 394.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HS65 SURROUND",
+        "price": 57.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Turtle Beach EAR FORCE Recon 50X",
+        "price": 28.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Corsair Virtuoso RGB SE",
+        "price": 195.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HS70 PRO",
+        "price": 98.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Audeze Maxwell for PlayStation 5",
+        "price": 299,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            50
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Astro Gaming A40 TR + MixAmp Pro TR",
+        "price": 394.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Gold"
+    },
+    {
+        "name": "Audeze LCD-GX",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            50
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Razer Kraken Ultimate",
+        "price": 209,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis 3 (2019)",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            22
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G335",
+        "price": 45.46,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "AOC GH300",
+        "price": 52.4,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Red / Black"
+    },
+    {
+        "name": "HiFiMAN SUNDARA",
+        "price": 299,
+        "type": "Circumaural",
+        "frequency_response": [
+            6,
+            75
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Pro + GameDAC",
+        "price": 157.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G533",
+        "price": 59.99,
+        "type": "Circumaural",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G435",
+        "price": 29.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Blue / Pink"
+    },
+    {
+        "name": "Sennheiser DROP Massdrop x Sennheiser PC37X",
+        "price": 130,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX CloudX",
+        "price": 44.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Apple MD827LL/A",
+        "price": 12.98,
+        "type": "Earbud",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Beyerdynamic MMX 300 (2nd Generation)",
+        "price": 239,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            35
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 1770 PRO",
+        "price": 499,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Orbit S",
+        "price": 219.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            50
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Logitech G PRO",
+        "price": 149.29,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis 3 (2019)",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            22
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Astro A50 + Base Station",
+        "price": 297,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Sennheiser HD 599",
+        "price": 120,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            38.5
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "White / Brown"
+    },
+    {
+        "name": "Sony XM5",
+        "price": 398,
+        "type": "Circumaural",
+        "frequency_response": [
+            4,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Silver"
+    },
+    {
+        "name": "MSI Immerse GH20",
+        "price": 16.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            29,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis 7P",
+        "price": 100,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Blue"
+    },
+    {
+        "name": "Sennheiser HD 598 SE",
+        "price": 594.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            38.5
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser ‎‎‎HD 450BT Black",
+        "price": 150.11,
+        "type": "Circumaural",
+        "frequency_response": [
+            18,
+            22
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Sades SA-708",
+        "price": 7.7,
+        "type": "Circumaural",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 224.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Black"
+    },
+    {
+        "name": "Corsair HS35",
+        "price": 29.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Audeze Maxwell for Xbox Series X|S",
+        "price": 329,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            50
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Asus ROG Delta White Edition",
+        "price": 136.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Audio-Technica ATH-M40x",
+        "price": 119,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            24
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Asus ROG STRIX FUSION 700",
+        "price": 129,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Moondrop ARIA",
+        "price": 79.98,
+        "type": "In Ear",
+        "frequency_response": [
+            5,
+            36
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud III",
+        "price": 96.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            21
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G635",
+        "price": 59.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "Philips Fidelio X2HR/00",
+        "price": 148.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Turtle Beach Stealth 700 Gen 2 MAX",
+        "price": 169.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            22
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Audio-Technica ATH-G1WL",
+        "price": 249,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Pro",
+        "price": 153.85,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 700 PRO X",
+        "price": 259,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Audio-Technica ATH-M50xWH",
+        "price": 189,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Audio-Technica ATH-M50xBT",
+        "price": 189.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Corsair HS55 SURROUND",
+        "price": 40.42,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Core",
+        "price": 69.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            21
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Corsair HS65 SURROUND",
+        "price": 51.01,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White / Gray"
+    },
+    {
+        "name": "Sennheiser HD 599 SE",
+        "price": 179.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            38.5
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Sony INZONE H9",
+        "price": 298,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Open",
+        "color": null
+    },
+    {
+        "name": "Logitech Pro X",
+        "price": 202.56,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Turtle Beach Recon 50",
+        "price": 24.95,
+        "type": "Circumaural",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Razer Kraken V3 HyperSense",
+        "price": 87.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser HD 280 PRO",
+        "price": 94.9,
+        "type": "Circumaural",
+        "frequency_response": [
+            8,
+            25
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair HS55 STEREO",
+        "price": 34.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White / Gray"
+    },
+    {
+        "name": "Razer Barracuda X (2021)",
+        "price": 99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sennheiser GAME ONE",
+        "price": 98.48,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / White"
+    },
+    {
+        "name": "Audeze Mobius",
+        "price": 799.67,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            50
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Blue / Black"
+    },
+    {
+        "name": "Apple AirPods Pro",
+        "price": null,
+        "type": "Earbud",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Cooler Master MH670",
+        "price": 74.84,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis Prime",
+        "price": 60.79,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "JBL Quantum 100",
+        "price": 19.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Superlux HD668B",
+        "price": 39.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            30
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Semi-open",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Alpha S",
+        "price": 89.97,
+        "type": "Circumaural",
+        "frequency_response": [
+            13,
+            27
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Blue / Black"
+    },
+    {
+        "name": "Bose QuietComfort 35 Series II",
+        "price": 299,
+        "type": "Circumaural",
+        "frequency_response": null,
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Logitech G35",
+        "price": 461.26,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sony WH-1000XM3",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            4,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Audio-Technica ATH-M20X",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            20
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Asus TUF Gaming H1",
+        "price": 34.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Final D8000",
+        "price": 3799,
+        "type": "Circumaural",
+        "frequency_response": null,
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Corsair VOID ELITE SURROUND",
+        "price": 79.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            30
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken Kitty",
+        "price": 110.05,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Microsoft Xbox WH",
+        "price": 79.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "MSI IMMERSE GH",
+        "price": 52.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Audio-Technica ATH-R70X",
+        "price": 311.85,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            40
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Beyerdynamic DT 990",
+        "price": 179,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            35
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Logitech G935",
+        "price": 114.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken BT - Kitty Edition",
+        "price": 99.81,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Pink / White"
+    },
+    {
+        "name": "Logitech G933 Artemis Spectrum",
+        "price": 259.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Blue"
+    },
+    {
+        "name": "ROCCAT Elo Air",
+        "price": 99.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Gigabyte Aorus H5",
+        "price": 82.34,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Orange"
+    },
+    {
+        "name": "Cooler Master MH630",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sony MDR-7506",
+        "price": 89.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            20
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Astro A50 PS4 4th Gen + Base Station",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Koss KSC75",
+        "price": 19.98,
+        "type": "Supra-aural",
+        "frequency_response": null,
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "SteelSeries ARCTIS 7 2019 Edition",
+        "price": 229.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White / Black"
+    },
+    {
+        "name": "Adesso Xtream H4",
+        "price": 13.87,
+        "type": "Supra-aural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud III",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            21
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Asus TUF Gaming H1 Wireless",
+        "price": 83.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": null
+    },
+    {
+        "name": "Skullcandy Crusher",
+        "price": 94.03,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": false,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken Kitty V2 Pro",
+        "price": 199.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Pink / Gray"
+    },
+    {
+        "name": "Razer Kraken 7.1 V2 Mercury Edition",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Corsair HS65",
+        "price": 119.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Panasonic RP-HJE125-W",
+        "price": 9.99,
+        "type": "Earbud",
+        "frequency_response": [
+            10,
+            24
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": null
+    },
+    {
+        "name": "JBL Quantum 100",
+        "price": 19.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "Sennheiser HD 598",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            38.5
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Brown"
+    },
+    {
+        "name": "Razer Kraken 7.1 V2",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            12,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "HP HyperX Cloud Stinger Core",
+        "price": 29.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "SteelSeries Arctis 7X",
+        "price": 139.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Green"
+    },
+    {
+        "name": "Sennheiser GSP 670",
+        "price": 187.72,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            23
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Sony WH-1000XM3",
+        "price": 369,
+        "type": "Circumaural",
+        "frequency_response": [
+            4,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Silver"
+    },
+    {
+        "name": "Beyerdynamic T1",
+        "price": 999.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            5,
+            50
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Semi-open",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Final B1",
+        "price": 698,
+        "type": "In Ear",
+        "frequency_response": null,
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Copper / Black"
+    },
+    {
+        "name": "Sennheiser GAME ZERO",
+        "price": 59.93,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            26
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Red"
+    },
+    {
+        "name": "Corsair HS70 Bluetooth",
+        "price": 99.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken BT - Hello Kitty and Friends Edition",
+        "price": 119.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Pink / White"
+    },
+    {
+        "name": "Astro Logitech G A30 LIGHTSPEED (Xbox/PC)",
+        "price": 219.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "White"
+    },
+    {
+        "name": "G.Skill RIPJAWS SV710",
+        "price": 19.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud Core w/7.1 Dongle",
+        "price": 66.48,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            25
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": null
+    },
+    {
+        "name": "Logitech G PRO",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HiFiMAN Arya",
+        "price": 999,
+        "type": "Circumaural",
+        "frequency_response": [
+            8,
+            65
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black"
+    },
+    {
+        "name": "Anker Soundcore Life Q30",
+        "price": 79.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            16,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HiFiMAN HE400SE",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": false,
+        "wireless": false,
+        "enclosure_type": "Open",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Asus TUF Gaming H3",
+        "price": 45.98,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Gray"
+    },
+    {
+        "name": "Corsair HS65",
+        "price": 116.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "JBL Quantum One",
+        "price": 199.95,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Corsair VOID PRO RGB (Black)",
+        "price": null,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "Razer Kraken V3",
+        "price": 70.08,
+        "type": "Circumaural",
+        "frequency_response": [
+            20,
+            20
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black"
+    },
+    {
+        "name": "HP HyperX Cloud MIX",
+        "price": 119.99,
+        "type": "Circumaural",
+        "frequency_response": [
+            10,
+            40
+        ],
+        "microphone": true,
+        "wireless": true,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    },
+    {
+        "name": "Audio-Technica ATH-M50xSTS StreamSet USB",
+        "price": 229,
+        "type": "Circumaural",
+        "frequency_response": [
+            15,
+            28
+        ],
+        "microphone": true,
+        "wireless": false,
+        "enclosure_type": "Closed",
+        "color": "Black / Silver"
+    }
+]

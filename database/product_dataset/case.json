@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "Corsair 4000D Airflow",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H5 Flow",
+        "price": 94.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Lian Li O11 Dynamic EVO",
+        "price": 154.9,
+        "type": "ATX Mid Tower",
+        "color": "White / Gray",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Deepcool CC560",
+        "price": 58.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li O11 Dynamic EVO",
+        "price": 154.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "NZXT H9 Flow",
+        "price": 166.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 4000X RGB",
+        "price": 119.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H5 Flow",
+        "price": 79.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Fractal Design North",
+        "price": 128.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Versa H18",
+        "price": 43.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair 4000D Airflow",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Air",
+        "price": 79.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks Eclipse G360A",
+        "price": 79.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H9 Flow",
+        "price": 159.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 216",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair 5000D AIRFLOW",
+        "price": 139.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li O11 Dynamic Mini Snow Edition",
+        "price": 114.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H7 Flow",
+        "price": 129.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li PC-O11 Dynamic",
+        "price": 119.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Deepcool MACUBE 110",
+        "price": 49.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Air RGB",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "MagniumGear Neo Micro V2",
+        "price": 34.99,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master MasterBox Q300L",
+        "price": 39.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "HYTE Y60",
+        "price": 199.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Mini Air",
+        "price": 89.99,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H510 Flow",
+        "price": 94.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Cooler Master MasterBox NR200",
+        "price": 69.99,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair 7000D AIRFLOW",
+        "price": 204.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Asus Prime AP201",
+        "price": 74.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Terra",
+        "price": null,
+        "type": "Mini ITX Desktop",
+        "color": "Black / Brown",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Fractal Design Pop XL Air",
+        "price": 109.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Lian Li O11 Dynamic Mini",
+        "price": 92,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Meshify C",
+        "price": 99.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Montech X3 Mesh",
+        "price": 59.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H510",
+        "price": 89,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 4000X RGB",
+        "price": 129.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Montech AIR 100 ARGB",
+        "price": null,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 216",
+        "price": 96.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool MATREXX 40 3FS",
+        "price": 49.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design North",
+        "price": 127.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Montech AIR 100 ARGB",
+        "price": 79.98,
+        "type": "MicroATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master MasterBox NR200P",
+        "price": 144.99,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool CH370",
+        "price": 61.98,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "HYTE Y60",
+        "price": 195.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H9 Elite",
+        "price": 239.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 216",
+        "price": 103.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li O11 Air Mini",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Lian Li LANCOOL 215",
+        "price": 94.49,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Air",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li PC-O11 Dynamic",
+        "price": 119.99,
+        "type": "ATX Full Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Focus 2 RGB",
+        "price": 53.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "BitFenix Nova Mesh M ARGB",
+        "price": 59,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "be quiet! Pure Base 500DX",
+        "price": 89.9,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool CC560",
+        "price": 61.98,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Torrent",
+        "price": 127.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Terra",
+        "price": null,
+        "type": "Mini ITX Desktop",
+        "color": "Green / Brown",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "NZXT H5 Elite",
+        "price": 139.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Corsair iCUE 4000D RGB AIRFLOW",
+        "price": 120.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Zalman S2",
+        "price": 54.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 205M MESH",
+        "price": 94.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Mini Air",
+        "price": 89.99,
+        "type": "MicroATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Focus G",
+        "price": 64.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Versa H17",
+        "price": 39.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H9 Elite",
+        "price": 239.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 7000X RGB",
+        "price": 299.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Fractal Design Core 1000 USB 3.0",
+        "price": 37.98,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li A4-H20 X4",
+        "price": 152.99,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "NZXT H510 Elite",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL III RGB",
+        "price": 142.94,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Fractal Design Terra",
+        "price": null,
+        "type": "Mini ITX Desktop",
+        "color": "Silver / Brown",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "NZXT H7 Flow",
+        "price": 129.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool MACUBE 110",
+        "price": 49.99,
+        "type": "MicroATX Mini Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool MATREXX 50 ADD-RGB 4F",
+        "price": 85.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks Enthoo Elite",
+        "price": 899.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 1,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Fractal Design North",
+        "price": 128.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "HYTE Y40",
+        "price": 148.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Deepcool MATREXX 40",
+        "price": 45.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Level 20",
+        "price": 599.99,
+        "type": "ATX Full Tower",
+        "color": "Black / Silver",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 8
+    },
+    {
+        "name": "Fractal Design North",
+        "price": 127.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 5000X RGB",
+        "price": 179.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master MasterBox TD500 Mesh w/ Controller",
+        "price": 129.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H5 Elite",
+        "price": 139.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "NZXT H5 Flow RGB",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Deepcool CH370",
+        "price": 61.98,
+        "type": "MicroATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Meshify 2",
+        "price": 159.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Phanteks Eclipse P400A Digital",
+        "price": 69.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair Obsidian Series 1000D",
+        "price": 502.58,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 5
+    },
+    {
+        "name": "MSI MAG FORGE 100R",
+        "price": 118.81,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li O11D XL-X",
+        "price": 199.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Asus Prime AP201",
+        "price": 79.98,
+        "type": "MicroATX Mini Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Ridge",
+        "price": null,
+        "type": "Mini ITX Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Asus ROG Strix Helios",
+        "price": 299,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair Carbide Series 175R RGB",
+        "price": 79.48,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Antec NX410",
+        "price": 69.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master MasterBox NR200",
+        "price": 69.99,
+        "type": "Mini ITX Desktop",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool CG560",
+        "price": 69.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master MasterBox NR200P",
+        "price": 89.99,
+        "type": "Mini ITX Desktop",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "MagniumGear Neo Micro V2",
+        "price": 34.99,
+        "type": "MicroATX Mid Tower",
+        "color": "Silver / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H510",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "HYTE Y40",
+        "price": 148.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Fractal Design Define R5",
+        "price": 124.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 2,
+        "internal_35_bays": 8
+    },
+    {
+        "name": "Phanteks Eclipse P400A",
+        "price": 59.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Core V1",
+        "price": 39.99,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks Enthoo Pro",
+        "price": 94.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 3,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Aerocool Cylon",
+        "price": 53.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Deepcool CK560",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks Eclipse P300A Mesh",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "BitFenix Nova Mesh SE",
+        "price": 64.9,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "SAMA IM01",
+        "price": 53.97,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 5
+    },
+    {
+        "name": "Fractal Design Pop XL Air",
+        "price": 109.99,
+        "type": "ATX Full Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Montech SKY TWO",
+        "price": 114.9,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "MagniumGear Neo Mini V2",
+        "price": 29.99,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Montech SKY TWO",
+        "price": 94.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H5 Flow RGB",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Lian Li LANCOOL III",
+        "price": 149.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "DIYPC S3-BK-ARGB",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "DIYPC F2",
+        "price": 44.98,
+        "type": "MicroATX Mini Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks Eclipse G360A",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "DAN Cases C4-SFXv1",
+        "price": null,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Cooler Master MasterBox TD500 Mesh White w/ Controller",
+        "price": 122.56,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li O11 Air Mini",
+        "price": 119,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Zalman T6",
+        "price": 49.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 1,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "be quiet! Pure Base 500 FX",
+        "price": 149.9,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "MSI MPG GUNGNIR 110R",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Focus 2",
+        "price": 79.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Aerocool CS-106",
+        "price": null,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Deepcool MATREXX 30",
+        "price": null,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 1,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Lian Li O11D XL-W",
+        "price": 199.99,
+        "type": "ATX Full Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Cooler Master MasterBox NR600 (w/o ODD)",
+        "price": 99.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "NZXT H510i",
+        "price": 85.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Meshify C",
+        "price": 99.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks NV7",
+        "price": 226.98,
+        "type": "ATX Full Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li A4-H20 A4",
+        "price": 151.16,
+        "type": "Mini ITX Desktop",
+        "color": "Silver / Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "BitFenix Nova Mesh M ARGB",
+        "price": 59,
+        "type": "MicroATX Mini Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 5000D RGB AIRFLOW",
+        "price": 174.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Versa H21",
+        "price": 54.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 3,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Corsair iCUE 4000D RGB AIRFLOW",
+        "price": 119.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Rosewill PRISM S500",
+        "price": 59.97,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Cougar MX330-X",
+        "price": 100.68,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 1,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Phanteks NV7",
+        "price": 226.98,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "CiT Blaze Red",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black / Red",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li Lancool II Mesh C RGB",
+        "price": 99.9,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "HYTE REVOLT 3",
+        "price": 119.99,
+        "type": "Mini ITX Tower",
+        "color": "Black",
+        "psu": 700,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "NZXT H7 Elite",
+        "price": 159.99,
+        "type": "ATX Mid Tower",
+        "color": null,
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair 2000D AIRFLOW",
+        "price": 139.99,
+        "type": "Mini ITX Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Deepcool MATREXX 55 MESH",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Meshify 2 Mini",
+        "price": 109.99,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL III RGB",
+        "price": 139.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "Antec NX410",
+        "price": 69.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H7 Elite",
+        "price": 159.99,
+        "type": "ATX Mid Tower",
+        "color": null,
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Asus TUF Gaming GT502",
+        "price": 149.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 4
+    },
+    {
+        "name": "MagniumGear Neo V2",
+        "price": 44.99,
+        "type": "ATX Mid Tower",
+        "color": "Silver",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Ridge",
+        "price": null,
+        "type": "Mini ITX Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Mesh",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Phanteks Eclipse G300A (1 Fan)",
+        "price": 58.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Fractal Design Define 7",
+        "price": 179.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 1,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "NZXT H7 Flow RGB",
+        "price": 149.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "MSI MAG FORGE 112R",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Focus 2",
+        "price": 79.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Air",
+        "price": 88.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li PC-O11 Dynamic Razer",
+        "price": 159.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Phanteks Eclipse G300A (3 Fan)",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "NZXT H7 Flow",
+        "price": 129.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair 5000D AIRFLOW",
+        "price": 139.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Gray",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Pop Air",
+        "price": 88.98,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Node 304",
+        "price": 109.98,
+        "type": "Mini ITX Tower",
+        "color": "Black / White",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Thermaltake S100",
+        "price": 66.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li Lancool II Mesh",
+        "price": 172.75,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Focus 2 RGB",
+        "price": 54.98,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "DIYPC ARGB-Q3",
+        "price": 64.97,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Core V21",
+        "price": 54.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Torrent RGB",
+        "price": 229.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Montech AIR 100 LITE",
+        "price": null,
+        "type": "MicroATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 205M MESH",
+        "price": 99.99,
+        "type": "MicroATX Mini Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Node 804",
+        "price": 137.5,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 10
+    },
+    {
+        "name": "MSI MPG VELOX 100R",
+        "price": 124.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Torrent",
+        "price": 189.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master HAF 700 EVO",
+        "price": 578.99,
+        "type": "ATX Full Tower",
+        "color": "Gray / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 12
+    },
+    {
+        "name": "Thermaltake V200 RGB",
+        "price": 79.98,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Antec NX200M",
+        "price": 49.99,
+        "type": "MicroATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Focus G",
+        "price": 64.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master Cosmos Infinity 30th Anniversary",
+        "price": 899.99,
+        "type": "ATX Full Tower",
+        "color": "Black / Silver",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "NZXT H510 Elite",
+        "price": 109.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Asus TUF Gaming GT301",
+        "price": 84.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Core 1100",
+        "price": 49.99,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 2,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 5000D RGB AIRFLOW",
+        "price": 174.99,
+        "type": "ATX Mid Tower",
+        "color": "White",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Meshify 2 Compact",
+        "price": 124.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Antec DF700 FLUX",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Deepcool CK560",
+        "price": 89.99,
+        "type": "ATX Mid Tower",
+        "color": "White / Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Lian Li LANCOOL 205 Mesh C",
+        "price": 121.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair iCUE 5000T RGB",
+        "price": 299.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Corsair Carbide Series SPEC-DELTA RGB",
+        "price": null,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Fractal Design Torrent Nano RGB",
+        "price": 129.99,
+        "type": "Mini ITX Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 1
+    },
+    {
+        "name": "Lian Li Q58 (PCIe 4.0)",
+        "price": null,
+        "type": "Mini ITX Desktop",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 0
+    },
+    {
+        "name": "Lian Li Lancool II Mesh C Performance",
+        "price": 99.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 3
+    },
+    {
+        "name": "Fractal Design Meshify 2 XL",
+        "price": 204.99,
+        "type": "ATX Full Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tinted Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 6
+    },
+    {
+        "name": "Cougar MX330",
+        "price": 68.66,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 1,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake The Tower 100",
+        "price": 79.98,
+        "type": "Mini ITX Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Tempered Glass",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Thermaltake Versa H18",
+        "price": 192.82,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Zalman S3",
+        "price": 52.99,
+        "type": "ATX Mid Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": "Acrylic",
+        "external_525_bays": 0,
+        "internal_35_bays": 2
+    },
+    {
+        "name": "Cooler Master N200",
+        "price": 72.98,
+        "type": "MicroATX Mini Tower",
+        "color": "Black",
+        "psu": null,
+        "side_panel": null,
+        "external_525_bays": 1,
+        "internal_35_bays": 3
+    }
+]

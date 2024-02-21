@@ -1,0 +1,2839 @@
+[
+    {
+        "name": "Corsair iCUE SP120 RGB ELITE 3-Pack",
+        "price": 59.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            400,
+            1500
+        ],
+        "airflow": null,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Noctua NF-A12x25 PWM chromax.black.swap",
+        "price": 34.95,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": 60.09,
+        "noise_level": 22.6,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity 3-Pack",
+        "price": 84.83,
+        "size": 120,
+        "color": "Black",
+        "rpm": null,
+        "airflow": [
+            0,
+            61.3
+        ],
+        "noise_level": [
+            0,
+            29
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST 5-Pack",
+        "price": 34.65,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI SL120 3-Pack",
+        "price": 86.34,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 58.54,
+        "noise_level": [
+            17,
+            31
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity 3-Pack",
+        "price": 79.98,
+        "size": 120,
+        "color": "White",
+        "rpm": null,
+        "airflow": [
+            0,
+            61.3
+        ],
+        "noise_level": [
+            0,
+            29
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2 3-Pack",
+        "price": 82.9,
+        "size": 120,
+        "color": "Black / Silver",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.5,
+        "noise_level": 29.2,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI SL120 3-Pack",
+        "price": 95.17,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 58.54,
+        "noise_level": [
+            17,
+            31
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12",
+        "price": 9.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A14 PWM chromax.black.swap",
+        "price": 26.95,
+        "size": 140,
+        "color": "Multicolor",
+        "rpm": [
+            300,
+            1500
+        ],
+        "airflow": 82.52,
+        "noise_level": 24.6,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2 3-Pack",
+        "price": 81.06,
+        "size": 120,
+        "color": "White / Silver",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.5,
+        "noise_level": 29.2,
+        "pwm": true
+    },
+    {
+        "name": "Noctua P12 redux-1700 PWM",
+        "price": 15.95,
+        "size": 120,
+        "color": "Gray",
+        "rpm": [
+            450,
+            1700
+        ],
+        "airflow": 70.75,
+        "noise_level": 25.1,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A12x25 PWM",
+        "price": 32.95,
+        "size": 120,
+        "color": "Brown",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": [
+            49.73,
+            60.1
+        ],
+        "noise_level": [
+            18.8,
+            22.6
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE SP120 RGB ELITE",
+        "price": 23.05,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            400,
+            1500
+        ],
+        "airflow": null,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 Max",
+        "price": 8.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            200,
+            3300
+        ],
+        "airflow": [
+            81.04,
+            84.04
+        ],
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Corsair LL120 3-Pack",
+        "price": 82.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            600,
+            1500
+        ],
+        "airflow": 43.25,
+        "noise_level": 24.8,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB 3-Pack",
+        "price": 70.17,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            13.94,
+            50.18
+        ],
+        "noise_level": [
+            17.2,
+            27.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Thermalright TL-C12C-S 3-Pack",
+        "price": 15.39,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1550,
+        "airflow": 66.17,
+        "noise_level": 25.6,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE SP RGB ELITE 3-Pack",
+        "price": 59.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            400,
+            1500
+        ],
+        "airflow": 47.73,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE AF120 RGB ELITE 3-Pack",
+        "price": 104.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            550,
+            2100
+        ],
+        "airflow": [
+            13.8,
+            65.57
+        ],
+        "noise_level": [
+            5,
+            34.1
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Deepcool FC120-3 IN 1 3-Pack",
+        "price": 49.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 61.91,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity",
+        "price": 29.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": null,
+        "airflow": [
+            0,
+            61.3
+        ],
+        "noise_level": [
+            0,
+            29
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            13.94,
+            50.18
+        ],
+        "noise_level": [
+            17.2,
+            27.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Thermalright TL-C12C 3-Pack",
+        "price": 11.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1550,
+        "airflow": 66.17,
+        "noise_level": 25.6,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Pure Wings 2",
+        "price": 10.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            51.4,
+            87
+        ],
+        "noise_level": 20.2,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A14 PWM",
+        "price": 23.95,
+        "size": 140,
+        "color": "Brown",
+        "rpm": [
+            300,
+            1500
+        ],
+        "airflow": [
+            68,
+            82.5
+        ],
+        "noise_level": [
+            19.2,
+            24.6
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Fractal Design Prisma AL18 RGB PWM 2-Pack",
+        "price": 396,
+        "size": 180,
+        "color": "Black",
+        "rpm": [
+            300,
+            1200
+        ],
+        "airflow": [
+            43.1,
+            146.8
+        ],
+        "noise_level": [
+            14.9,
+            37.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua F12 industrialPPC-3000 PWM",
+        "price": 27.95,
+        "size": 120,
+        "color": "Brown / Black",
+        "rpm": [
+            750,
+            3000
+        ],
+        "airflow": 109.89,
+        "noise_level": 43.5,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2",
+        "price": 26.99,
+        "size": 120,
+        "color": "Black / Silver",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.5,
+        "noise_level": 29.2,
+        "pwm": true
+    },
+    {
+        "name": "Corsair LL120 3-Pack",
+        "price": 83.17,
+        "size": 120,
+        "color": "White",
+        "rpm": 2200,
+        "airflow": 63,
+        "noise_level": 36,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity",
+        "price": 24.99,
+        "size": 120,
+        "color": "White",
+        "rpm": null,
+        "airflow": [
+            0,
+            61.3
+        ],
+        "noise_level": [
+            0,
+            29
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Thermalright TL-C12C-S 3-Pack",
+        "price": 15.39,
+        "size": 120,
+        "color": "White",
+        "rpm": 1550,
+        "airflow": 66.17,
+        "noise_level": 25.6,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB",
+        "price": 24.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            13.94,
+            50.18
+        ],
+        "noise_level": [
+            17.2,
+            27.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua A14 industrialPPC-3000 PWM",
+        "price": 29.95,
+        "size": 140,
+        "color": "Brown / Black",
+        "rpm": [
+            800,
+            3000
+        ],
+        "airflow": 158.5,
+        "noise_level": 41.3,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST A-RGB 0dB 3-Pack",
+        "price": null,
+        "size": 120,
+        "color": "Black",
+        "rpm": null,
+        "airflow": 48.8,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PST",
+        "price": 11.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            200,
+            1700
+        ],
+        "airflow": 72.8,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE QL120 3-Pack",
+        "price": 115.85,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1500,
+        "airflow": 41.8,
+        "noise_level": 26,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST",
+        "price": 8.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2",
+        "price": 26.99,
+        "size": 120,
+        "color": "White / Silver",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.5,
+        "noise_level": 29.2,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Silent Wings Pro 4",
+        "price": 31.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 3000,
+        "airflow": 83.9,
+        "noise_level": 36.9,
+        "pwm": true
+    },
+    {
+        "name": "Noctua F12 PWM",
+        "price": 14.99,
+        "size": 120,
+        "color": "Brown",
+        "rpm": [
+            300,
+            1500
+        ],
+        "airflow": [
+            43.73,
+            54.97
+        ],
+        "noise_level": [
+            18.6,
+            22.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master MasterFan MF Halo 3-Pack",
+        "price": 54.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 47.2,
+        "noise_level": [
+            6,
+            30
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity",
+        "price": 26.55,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            200,
+            1600
+        ],
+        "airflow": 72.7,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE ML RGB ELITE Premium 3-Pack",
+        "price": 49.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": [
+            14.86,
+            58.1
+        ],
+        "noise_level": [
+            10,
+            30.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Pure Wings 2",
+        "price": 12.12,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            400,
+            1000
+        ],
+        "airflow": 61.2,
+        "noise_level": 19.8,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE AF120 RGB ELITE 3-Pack",
+        "price": 104.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            550,
+            2100
+        ],
+        "airflow": [
+            13.8,
+            65.57
+        ],
+        "noise_level": [
+            5,
+            34.1
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Deepcool FK120 3-Pack",
+        "price": 49.99,
+        "size": 120,
+        "color": null,
+        "rpm": [
+            500,
+            1850
+        ],
+        "airflow": 68.99,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A12x15 PWM chromax.black.swap",
+        "price": 33.07,
+        "size": 120,
+        "color": "Black / Multicolor",
+        "rpm": [
+            450,
+            1850
+        ],
+        "airflow": 55.44,
+        "noise_level": 23.9,
+        "pwm": true
+    },
+    {
+        "name": "Corsair LL120",
+        "price": 38.08,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            600,
+            1500
+        ],
+        "airflow": 43.25,
+        "noise_level": 24.8,
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master SickleFlow 3-Pack",
+        "price": 49.91,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 62,
+        "noise_level": [
+            8,
+            27
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 Slim PWM PST",
+        "price": 9.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            300,
+            2100
+        ],
+        "airflow": 41.1,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Deepcool FC120 WHITE-3 IN 1 3-Pack",
+        "price": 49.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 61.91,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Corsair AF120 ELITE",
+        "price": 19.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            400,
+            1850
+        ],
+        "airflow": [
+            10.9,
+            59.1
+        ],
+        "noise_level": 31.5,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL120 V2 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 77.3,
+        "noise_level": 28.7,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks PH-F120T30 3-Pack",
+        "price": 85.99,
+        "size": 120,
+        "color": "Black / Gray",
+        "rpm": null,
+        "airflow": 67,
+        "noise_level": 27.3,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI SL120",
+        "price": 29.52,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 58.54,
+        "noise_level": [
+            17,
+            31
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2",
+        "price": 29.98,
+        "size": 140,
+        "color": "Black / Silver",
+        "rpm": [
+            250,
+            1600
+        ],
+        "airflow": 77.6,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PST 5-Pack",
+        "price": 39.81,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            200,
+            1700
+        ],
+        "airflow": 72.8,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Noctua F12 PWM chromax.black.swap",
+        "price": 24.75,
+        "size": 120,
+        "color": "Multicolor",
+        "rpm": [
+            300,
+            1500
+        ],
+        "airflow": 54.97,
+        "noise_level": 22.4,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB",
+        "price": 34.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            13.94,
+            50.18
+        ],
+        "noise_level": [
+            17.2,
+            27.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Silent Wings Pro 4",
+        "price": 41.19,
+        "size": 140,
+        "color": "Black",
+        "rpm": 2400,
+        "airflow": 97.41,
+        "noise_level": 36.8,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks PH-F120T30",
+        "price": 33.98,
+        "size": 120,
+        "color": "Black / Gray",
+        "rpm": null,
+        "airflow": 67,
+        "noise_level": 27.3,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL-Infinity",
+        "price": 21.31,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            200,
+            1600
+        ],
+        "airflow": 72.7,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 5-Pack",
+        "price": 23.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1800,
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": false
+    },
+    {
+        "name": "Corsair iCUE SP RGB ELITE",
+        "price": 20.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            400,
+            1500
+        ],
+        "airflow": 47.73,
+        "noise_level": 28,
+        "pwm": true
+    },
+    {
+        "name": "Noctua S12B redux-1200 PWM",
+        "price": 14.95,
+        "size": 120,
+        "color": "Black / Gray",
+        "rpm": [
+            400,
+            1200
+        ],
+        "airflow": 59.1,
+        "noise_level": 18.1,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings PWM high-speed 3-Pack",
+        "price": 79.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 2500,
+        "airflow": 52.3,
+        "noise_level": 31,
+        "pwm": true
+    },
+    {
+        "name": "Noctua P14s redux-1500 PWM",
+        "price": 16.95,
+        "size": 140,
+        "color": "Black / Gray",
+        "rpm": [
+            450,
+            1500
+        ],
+        "airflow": 78.69,
+        "noise_level": 25.8,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE QL120 3-Pack",
+        "price": 115.58,
+        "size": 120,
+        "color": "White / Black",
+        "rpm": [
+            525,
+            1500
+        ],
+        "airflow": 41.8,
+        "noise_level": 26,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12",
+        "price": 8.84,
+        "size": 120,
+        "color": "Black / Transparent",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Asus TUF Gaming TF120 ARGB 3-Pack",
+        "price": 59.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            250,
+            1900
+        ],
+        "airflow": 76,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Silent Wings 4",
+        "price": 23.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1600,
+        "airflow": 48.7,
+        "noise_level": 18.9,
+        "pwm": true
+    },
+    {
+        "name": "NZXT AER RGB 2",
+        "price": 29.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            17.48,
+            52.44
+        ],
+        "noise_level": [
+            22,
+            33
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F140 RGB 2-Pack",
+        "price": 69.98,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            24.85,
+            89.48
+        ],
+        "noise_level": [
+            20,
+            32.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master SickleFlow",
+        "price": 18.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 62,
+        "noise_level": [
+            8,
+            27
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120Q",
+        "price": 14.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1200
+        ],
+        "airflow": [
+            27.77,
+            64
+        ],
+        "noise_level": [
+            16.7,
+            22.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI SL120",
+        "price": 28.37,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 58.54,
+        "noise_level": [
+            17,
+            31
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12",
+        "price": 8.49,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1800,
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": false
+    },
+    {
+        "name": "Phanteks D30-120 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.3,
+        "noise_level": 30.2,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST A-RGB 0dB",
+        "price": 16.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": null,
+        "airflow": 48.8,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Corsair AF120 (2018) 3-Pack",
+        "price": 38.44,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": 1400,
+        "airflow": 52,
+        "noise_level": 26,
+        "pwm": false
+    },
+    {
+        "name": "Corsair iCUE SP140 RGB ELITE 2-Pack",
+        "price": 62.99,
+        "size": 140,
+        "color": "Black / White",
+        "rpm": [
+            405,
+            1200
+        ],
+        "airflow": null,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Noctua S12A PWM chromax.black.swap",
+        "price": 22.9,
+        "size": 120,
+        "color": "Multicolor",
+        "rpm": [
+            300,
+            1200
+        ],
+        "airflow": 63.27,
+        "noise_level": 17.8,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL120 V2 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 77.3,
+        "noise_level": 28.7,
+        "pwm": true
+    },
+    {
+        "name": "upHere T7SYC7 6-Pack",
+        "price": 43.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            600,
+            1700
+        ],
+        "airflow": null,
+        "noise_level": [
+            16.1,
+            27.7
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB Core",
+        "price": null,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 78.86,
+        "noise_level": 33.88,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120P",
+        "price": 24.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            21.67,
+            78.02
+        ],
+        "noise_level": [
+            17.9,
+            30.6
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master SickleFlow 120 ARGB 3 In 1 3-Pack",
+        "price": 56,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 62,
+        "noise_level": [
+            8,
+            27
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Phanteks PH-F120SK",
+        "price": 16.98,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 50,
+        "noise_level": 27,
+        "pwm": true
+    },
+    {
+        "name": "Corsair LL120",
+        "price": 39.99,
+        "size": 120,
+        "color": "White",
+        "rpm": 2200,
+        "airflow": 63,
+        "noise_level": 36,
+        "pwm": true
+    },
+    {
+        "name": "Deepcool FC120",
+        "price": 19.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": null,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Silent Wings 4",
+        "price": 24.9,
+        "size": 140,
+        "color": "Black",
+        "rpm": 1100,
+        "airflow": 51.3,
+        "noise_level": 13.6,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE AF140 RGB ELITE 2-Pack",
+        "price": 99.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1700
+        ],
+        "airflow": [
+            19.5,
+            89
+        ],
+        "noise_level": [
+            5,
+            33.8
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua A12x15 PWM",
+        "price": 28.07,
+        "size": 120,
+        "color": "Brown",
+        "rpm": [
+            450,
+            1850
+        ],
+        "airflow": [
+            41.67,
+            55.44
+        ],
+        "noise_level": [
+            16.8,
+            23.9
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN SL V2",
+        "price": 25.98,
+        "size": 140,
+        "color": "White / Silver",
+        "rpm": [
+            250,
+            1600
+        ],
+        "airflow": 77.6,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PWM PST A-RGB",
+        "price": 18.94,
+        "size": 140,
+        "color": "Black",
+        "rpm": null,
+        "airflow": [
+            0,
+            68
+        ],
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master MasterFan MF Halo",
+        "price": 17.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 47.2,
+        "noise_level": [
+            6,
+            30
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li ST120 3-Pack",
+        "price": 53.65,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 69.17,
+        "noise_level": 32,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li ST120 3-Pack",
+        "price": 39.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 69.17,
+        "noise_level": 32,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks D30-120 3-Pack",
+        "price": 86.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.3,
+        "noise_level": 30.2,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE QL120",
+        "price": 41.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            525,
+            1500
+        ],
+        "airflow": 41.8,
+        "noise_level": 26,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB Core",
+        "price": null,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 78.86,
+        "noise_level": 33.88,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC F12 PST 5-Pack",
+        "price": 29.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            230,
+            1350
+        ],
+        "airflow": 53,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Pure Wings 2",
+        "price": 10.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 2000,
+        "airflow": 65.51,
+        "noise_level": 36.9,
+        "pwm": true
+    },
+    {
+        "name": "ID-COOLING XF-12025-ARGB-TRIO 3-Pack",
+        "price": 24.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            700,
+            1500
+        ],
+        "airflow": 62,
+        "noise_level": [
+            18,
+            26.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Thermaltake SWAFAN EX12 RGB 3-Pack",
+        "price": 94.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": [
+            56.26,
+            57.11
+        ],
+        "noise_level": [
+            30.5,
+            32.5
+        ],
+        "pwm": false
+    },
+    {
+        "name": "Phanteks D30-120 Reversed 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 61.5,
+        "noise_level": 31.8,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL 2-Pack",
+        "price": 69.42,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 70.5,
+        "noise_level": 30,
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master MasterFan MF Halo 3-Pack",
+        "price": 78.69,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 47.2,
+        "noise_level": [
+            6,
+            30
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua A9x14 HS-PWM chromax.Black.swap",
+        "price": 21.95,
+        "size": 92,
+        "color": "Black / Multicolor",
+        "rpm": [
+            600,
+            2500
+        ],
+        "airflow": 33.84,
+        "noise_level": 23.6,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li Uni Fan SL 2-Pack",
+        "price": 79.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 70.5,
+        "noise_level": 30,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB DUO 3-Pack",
+        "price": 114.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 48.58,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "Corsair AF140L",
+        "price": 4.99,
+        "size": 140,
+        "color": "Black / Gray",
+        "rpm": 1000,
+        "airflow": 67.43,
+        "noise_level": null,
+        "pwm": false
+    },
+    {
+        "name": "Cooler Master SickleFlow",
+        "price": 9.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 62,
+        "noise_level": [
+            8,
+            27
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Deepcool RF M 5-Pack",
+        "price": 44.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 56.5,
+        "noise_level": 27,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks PH-F120SK 3-Pack",
+        "price": 34.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 50,
+        "noise_level": 27,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F140 RGB 2-Pack",
+        "price": 69.98,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            24.85,
+            89.48
+        ],
+        "noise_level": [
+            20,
+            32.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT AER RGB 2",
+        "price": null,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            17.48,
+            52.44
+        ],
+        "noise_level": [
+            22,
+            33
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings PWM 3-Pack",
+        "price": 79.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1700,
+        "airflow": 41.51,
+        "noise_level": 20.6,
+        "pwm": true
+    },
+    {
+        "name": "Thermaltake Riing Plus TT 5-Pack",
+        "price": 119.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 48.34,
+        "noise_level": 24.7,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A8 PWM",
+        "price": 16.95,
+        "size": 80,
+        "color": "Brown",
+        "rpm": [
+            450,
+            2200
+        ],
+        "airflow": [
+            25.84,
+            32.66
+        ],
+        "noise_level": [
+            13.8,
+            17.7
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL120 V2",
+        "price": 27.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 77.3,
+        "noise_level": 28.7,
+        "pwm": true
+    },
+    {
+        "name": "Thermalright TL-C12C",
+        "price": 6.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1550,
+        "airflow": 66.17,
+        "noise_level": 25.6,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks M25-120 PWM D-RGB 3-Pack",
+        "price": 38.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": 84.26,
+        "noise_level": 35.7,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PST",
+        "price": 12.94,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            200,
+            1700
+        ],
+        "airflow": 72.8,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings PWM high-speed 3-Pack",
+        "price": 84.9,
+        "size": 140,
+        "color": "Black",
+        "rpm": 2200,
+        "airflow": 71.7,
+        "noise_level": 31,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks D30-120 Reversed 3-Pack",
+        "price": 89.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 61.5,
+        "noise_level": 31.8,
+        "pwm": true
+    },
+    {
+        "name": "Fractal Design Aspect 12 RGB PWM 3-Pack",
+        "price": 50.4,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": [
+            13,
+            56
+        ],
+        "noise_level": [
+            10,
+            33.2
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master MasterFan MF Halo",
+        "price": 22.64,
+        "size": 140,
+        "color": "Black / White",
+        "rpm": [
+            650,
+            1500
+        ],
+        "airflow": 55,
+        "noise_level": [
+            6,
+            30
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ID-COOLING ZF-12025 Pastel",
+        "price": 12.99,
+        "size": 120,
+        "color": "Pink",
+        "rpm": [
+            900,
+            2000
+        ],
+        "airflow": 55.2,
+        "noise_level": [
+            16.3,
+            33.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F140Q",
+        "price": 7.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1200
+        ],
+        "airflow": [
+            42.92,
+            101
+        ],
+        "noise_level": [
+            18,
+            23
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F140 RGB",
+        "price": 26.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            24.85,
+            89.48
+        ],
+        "noise_level": [
+            20,
+            32.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Phanteks M25-120 PWM 3-Pack",
+        "price": 29.18,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": 84.26,
+        "noise_level": 35.7,
+        "pwm": true
+    },
+    {
+        "name": "Thermaltake SWAFAN EX12 RGB 3-Pack",
+        "price": 109.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": [
+            56.26,
+            57.11
+        ],
+        "noise_level": [
+            30.5,
+            32.5
+        ],
+        "pwm": false
+    },
+    {
+        "name": "Noctua F12 industrialPPC-2000 PWM",
+        "price": 27.95,
+        "size": 120,
+        "color": "Brown / Black",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": 71.69,
+        "noise_level": 29.7,
+        "pwm": true
+    },
+    {
+        "name": "Thermaltake TOUGHFAN 2-Pack",
+        "price": 24.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": 119.1,
+        "noise_level": [
+            25.2,
+            33.2
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings PWM high-speed",
+        "price": 26.9,
+        "size": 120,
+        "color": "Black",
+        "rpm": 2500,
+        "airflow": 52.3,
+        "noise_level": 31,
+        "pwm": true
+    },
+    {
+        "name": "ID-COOLING ZF",
+        "price": 17.98,
+        "size": 120,
+        "color": "Pink / White",
+        "rpm": [
+            900,
+            2000
+        ],
+        "airflow": null,
+        "noise_level": [
+            16.3,
+            33.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PWM PST A-RGB 3-Pack",
+        "price": 49.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": null,
+        "airflow": [
+            0,
+            68
+        ],
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master SickleFlow 120 ARGB",
+        "price": 19.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 62,
+        "noise_level": [
+            8,
+            27
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair LL140 2-Pack",
+        "price": 83.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            600,
+            1300
+        ],
+        "airflow": 51.5,
+        "noise_level": 25,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL120 3-Pack",
+        "price": 111.21,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 64.5,
+        "noise_level": [
+            17,
+            28.3
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua A14 industrialPPC-2000 PWM",
+        "price": 29.95,
+        "size": 140,
+        "color": "Brown / Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": 107.41,
+        "noise_level": 31.5,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE ML120 RGB ELITE Premium 3-Pack",
+        "price": 79,
+        "size": 120,
+        "color": "White / Gray",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": [
+            14.86,
+            58.1
+        ],
+        "noise_level": [
+            10,
+            30.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN P28 3-Pack",
+        "price": 72.69,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            200,
+            2600
+        ],
+        "airflow": [
+            44.94,
+            92
+        ],
+        "noise_level": [
+            20.4,
+            32.1
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua P14s redux-1200 PWM",
+        "price": 16.95,
+        "size": 140,
+        "color": "Black / Gray",
+        "rpm": [
+            350,
+            1200
+        ],
+        "airflow": 64.92,
+        "noise_level": 19.6,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 Slim PWM PST",
+        "price": 12.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            150,
+            1800
+        ],
+        "airflow": 52,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A20 PWM chromax.black.swap",
+        "price": 36.95,
+        "size": 200,
+        "color": "Black / Multicolor",
+        "rpm": [
+            350,
+            800
+        ],
+        "airflow": 86.46,
+        "noise_level": 18.1,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL140 V2",
+        "price": 30.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            250,
+            1600
+        ],
+        "airflow": 81.3,
+        "noise_level": 26.8,
+        "pwm": true
+    },
+    {
+        "name": "Noctua R8 redux-1800 PWM",
+        "price": 12.95,
+        "size": 80,
+        "color": "Black / Gray",
+        "rpm": [
+            325,
+            1800
+        ],
+        "airflow": 31.37,
+        "noise_level": 17.1,
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL360 3-Pack",
+        "price": 111.31,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            800,
+            1900
+        ],
+        "airflow": 64.5,
+        "noise_level": [
+            17,
+            28.3
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Lian Li UNI FAN AL120 V2",
+        "price": 27.72,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 77.3,
+        "noise_level": 28.7,
+        "pwm": true
+    },
+    {
+        "name": "Asus TUF Gaming TF120 ARGB",
+        "price": 14.99,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            250,
+            1900
+        ],
+        "airflow": 76,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14",
+        "price": 9.89,
+        "size": 140,
+        "color": "Black",
+        "rpm": 1700,
+        "airflow": 72.8,
+        "noise_level": 22.5,
+        "pwm": false
+    },
+    {
+        "name": "Antec Prizm 5+C 5-Pack",
+        "price": 49.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": 2000,
+        "airflow": 45.03,
+        "noise_level": 32.6,
+        "pwm": true
+    },
+    {
+        "name": "In Win Sirius Loop ASL 3-Pack",
+        "price": 34,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 50,
+        "noise_level": 27,
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120 RGB DUO 3-Pack",
+        "price": 114.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 48.58,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "NZXT AER RGB 2",
+        "price": null,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            30.39,
+            91.19
+        ],
+        "noise_level": [
+            22,
+            33
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE AF140 RGB ELITE 2-Pack",
+        "price": 79.98,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            500,
+            1700
+        ],
+        "airflow": [
+            19.5,
+            89
+        ],
+        "noise_level": [
+            5,
+            33.8
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Thermaltake TOUGHFAN 2-Pack",
+        "price": 35.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": 58.35,
+        "noise_level": 22.3,
+        "pwm": true
+    },
+    {
+        "name": "Fractal Design Aspect 12 RGB PWM",
+        "price": 45.36,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2000
+        ],
+        "airflow": [
+            13,
+            56
+        ],
+        "noise_level": [
+            10,
+            33.2
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE QL140 2-Pack",
+        "price": 102.99,
+        "size": 140,
+        "color": "Black",
+        "rpm": 1250,
+        "airflow": 50.2,
+        "noise_level": 26,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A9 PWM chromax.black.swap",
+        "price": 27.96,
+        "size": 92,
+        "color": "Black / Multicolor",
+        "rpm": [
+            400,
+            2000
+        ],
+        "airflow": 46.44,
+        "noise_level": 22.8,
+        "pwm": true
+    },
+    {
+        "name": "Kingwin CF-012LB",
+        "price": 5.08,
+        "size": 120,
+        "color": "Black",
+        "rpm": 950,
+        "airflow": 40,
+        "noise_level": 19,
+        "pwm": false
+    },
+    {
+        "name": "NZXT F120 RGB DUO",
+        "price": 39.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 48.58,
+        "noise_level": 29,
+        "pwm": true
+    },
+    {
+        "name": "Noctua P12 redux-1300 PWM",
+        "price": 14.95,
+        "size": 120,
+        "color": "Gray",
+        "rpm": [
+            300,
+            1300
+        ],
+        "airflow": 54.32,
+        "noise_level": 19.8,
+        "pwm": true
+    },
+    {
+        "name": "Noctua S12A PWM",
+        "price": 21.95,
+        "size": 120,
+        "color": "Brown",
+        "rpm": [
+            300,
+            1200
+        ],
+        "airflow": null,
+        "noise_level": [
+            10.7,
+            17.8
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST",
+        "price": null,
+        "size": 120,
+        "color": "Black / Translucent Black",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "upHere NT1207 5-Pack",
+        "price": 37.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            600,
+            1800
+        ],
+        "airflow": [
+            29.37,
+            86.34
+        ],
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Cooler Master MasterFan MF Halo",
+        "price": 20.29,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            650,
+            1800
+        ],
+        "airflow": 47.2,
+        "noise_level": [
+            6,
+            30
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P12 PST CO",
+        "price": 11.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            200,
+            1800
+        ],
+        "airflow": 56.3,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Deepcool CF120 Plus 3-Pack",
+        "price": 61.63,
+        "size": 120,
+        "color": "Black / White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 52.5,
+        "noise_level": 28.8,
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC F12 PST",
+        "price": 9.49,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            230,
+            1350
+        ],
+        "airflow": 53,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Xigmatek eXTREME SILENT",
+        "price": 4.99,
+        "size": 80,
+        "color": "Black",
+        "rpm": 2200,
+        "airflow": 36,
+        "noise_level": 24,
+        "pwm": false
+    },
+    {
+        "name": "NZXT F140 RGB",
+        "price": 26.99,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": [
+            24.85,
+            89.48
+        ],
+        "noise_level": [
+            20,
+            32.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE SP140 RGB ELITE",
+        "price": 29.99,
+        "size": 140,
+        "color": "Black / White",
+        "rpm": [
+            450,
+            1200
+        ],
+        "airflow": null,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE QL120",
+        "price": 43.13,
+        "size": 120,
+        "color": "White / Black",
+        "rpm": [
+            525,
+            1500
+        ],
+        "airflow": 41.8,
+        "noise_level": 26,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE ML RGB ELITE Premium",
+        "price": null,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            450,
+            2000
+        ],
+        "airflow": [
+            14.86,
+            58.1
+        ],
+        "noise_level": [
+            10,
+            30.4
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT F120Q",
+        "price": 24.98,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1200
+        ],
+        "airflow": [
+            27.77,
+            64
+        ],
+        "noise_level": [
+            16.7,
+            22.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Fractal Design Aspect 12",
+        "price": 19.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1200,
+        "airflow": 32,
+        "noise_level": 18.3,
+        "pwm": false
+    },
+    {
+        "name": "ARCTIC P12 PWM PST A-RGB 0dB 3-Pack",
+        "price": null,
+        "size": 120,
+        "color": "White / Gray",
+        "rpm": null,
+        "airflow": 48.8,
+        "noise_level": null,
+        "pwm": true
+    },
+    {
+        "name": "Razer Kunai Chroma 3-Pack",
+        "price": 114.51,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            2200
+        ],
+        "airflow": [
+            17.48,
+            65.5
+        ],
+        "noise_level": [
+            15,
+            35
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Phanteks M25-140 PWM D-RGB",
+        "price": 23.98,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 104.62,
+        "noise_level": 36.57,
+        "pwm": true
+    },
+    {
+        "name": "Antec Fusion 120 ARGB White 5-Pack",
+        "price": 59.99,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            600,
+            2000
+        ],
+        "airflow": 57.93,
+        "noise_level": [
+            17.02,
+            31.24
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings PWM high-speed",
+        "price": 29.9,
+        "size": 140,
+        "color": "Black",
+        "rpm": 2200,
+        "airflow": 71.7,
+        "noise_level": 31,
+        "pwm": true
+    },
+    {
+        "name": "Corsair AF120 SLIM",
+        "price": 24.99,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            600,
+            2000
+        ],
+        "airflow": [
+            13.4,
+            56.3
+        ],
+        "noise_level": [
+            5,
+            25.6
+        ],
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Silent Wings 3",
+        "price": 29.02,
+        "size": 120,
+        "color": "Black",
+        "rpm": 1450,
+        "airflow": 50.5,
+        "noise_level": 16.4,
+        "pwm": true
+    },
+    {
+        "name": "Corsair iCUE ML RGB ELITE Premium 2-Pack",
+        "price": 88.71,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            400,
+            1600
+        ],
+        "airflow": [
+            15,
+            82.9
+        ],
+        "noise_level": [
+            10,
+            31.8
+        ],
+        "pwm": true
+    },
+    {
+        "name": "NZXT AER RGB 2",
+        "price": 32.99,
+        "size": 140,
+        "color": "White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            17.48,
+            52.44
+        ],
+        "noise_level": [
+            22,
+            33
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Phanteks D30-120",
+        "price": 33.98,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            250,
+            2000
+        ],
+        "airflow": 64.3,
+        "noise_level": 30.2,
+        "pwm": true
+    },
+    {
+        "name": "NZXT AER RGB 2 3-Pack",
+        "price": null,
+        "size": 120,
+        "color": "White",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": [
+            17.48,
+            52.44
+        ],
+        "noise_level": [
+            22,
+            33
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Corsair ML120 2-Pack",
+        "price": null,
+        "size": 120,
+        "color": "White / Black",
+        "rpm": [
+            400,
+            2400
+        ],
+        "airflow": [
+            12,
+            75
+        ],
+        "noise_level": [
+            16,
+            37
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Noctua A20 PWM",
+        "price": 32.95,
+        "size": 200,
+        "color": "Brown",
+        "rpm": [
+            350,
+            800
+        ],
+        "airflow": [
+            59.33,
+            86.46
+        ],
+        "noise_level": [
+            10.7,
+            18.1
+        ],
+        "pwm": true
+    },
+    {
+        "name": "Phanteks SK140",
+        "price": 8.09,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 84.5,
+        "noise_level": 36,
+        "pwm": true
+    },
+    {
+        "name": "be quiet! Light Wings 3-Pack",
+        "price": 79.9,
+        "size": 120,
+        "color": "White",
+        "rpm": 2500,
+        "airflow": 52.3,
+        "noise_level": 31,
+        "pwm": true
+    },
+    {
+        "name": "Fractal Design Aspect 14 PWM",
+        "price": null,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1700
+        ],
+        "airflow": [
+            20,
+            78
+        ],
+        "noise_level": [
+            10,
+            35.5
+        ],
+        "pwm": true
+    },
+    {
+        "name": "ARCTIC P14 PST CO",
+        "price": null,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            200,
+            1700
+        ],
+        "airflow": 72.8,
+        "noise_level": 22.5,
+        "pwm": true
+    },
+    {
+        "name": "Noctua A15 HS-PWM chromax.black.swap",
+        "price": 28.95,
+        "size": 140,
+        "color": "Multicolor",
+        "rpm": [
+            300,
+            1500
+        ],
+        "airflow": 82.52,
+        "noise_level": 24.6,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks PH-F120SK",
+        "price": 13.22,
+        "size": 120,
+        "color": "Black",
+        "rpm": [
+            500,
+            1500
+        ],
+        "airflow": 50,
+        "noise_level": 27,
+        "pwm": true
+    },
+    {
+        "name": "Phanteks M25-140 PWM D-RGB 3-Pack",
+        "price": 49.98,
+        "size": 140,
+        "color": "Black",
+        "rpm": [
+            500,
+            1800
+        ],
+        "airflow": 104.62,
+        "noise_level": 36.57,
+        "pwm": true
+    }
+]

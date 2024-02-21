@@ -1,0 +1,53 @@
+{
+  "_auto-a7dedb8f.js": {
+    "file": "assets/auto-a7dedb8f.js"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-bb1de989.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-476adf42.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-d466e0b6.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/analytics-model-report-header.js": {
+    "file": "assets/analytics-model-report-header-99655b55.js",
+    "imports": [
+      "_auto-a7dedb8f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/analytics-model-report-header.js"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-47e6fcc6.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/bootstrap-icons-476adf42.woff2",
+      "assets/bootstrap-icons-bb1de989.woff"
+    ],
+    "css": [
+      "assets/app-47e6fcc6.css"
+    ],
+    "file": "assets/app-c24cc4fa.js",
+    "imports": [
+      "_auto-a7dedb8f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/chartjs.js": {
+    "file": "assets/chartjs-a4b9ef93.js",
+    "imports": [
+      "_auto-a7dedb8f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/chartjs.js"
+  }
+}
